@@ -1,21 +1,21 @@
-from neuralcoref import Coref
+import spacy
 import os
 
 path = os.getcwd() + '/chapters/'
 
 def run_coref(text):
 
-    coref = Coref()
-    clusters = coref.one_shot_coref(utterances=text, context=None)
+    nlp = spacy.load('en_coref_md')
+    doc = nlp(text)
 
-    return coref.get_resolved_utterances()
-
+    return doc._.coref_resolved
 
 def write_file (filename, resolved_text):
 
     with open(path + filename + '.resolved', 'w') as write_file:
         for item in resolved_text:
-            write_file.write("{}\n".format(item))
+            # write_file.write("{}\n".format(item))
+            write_file.write(item)
 
 
 for filename in os.listdir(path):

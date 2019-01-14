@@ -5,8 +5,8 @@ from pandas import DataFrame
 from textblob import Word
 from textblob import TextBlob
 
-# path = os.getcwd() + '/'
-path = '/home/denten/Documents/papers/projects-academic/workbench/lit-mod-viz/char-agent/corpus/airport/'
+path = os.getcwd() + '/'
+# path = '/home/denten/Documents/papers/projects-academic/workbench/lit-mod-viz/char-agent/corpus/airport/'
 
 # filter out what, that, this, and other junk etc.
 # better do this with parts of speech NN and NNP
