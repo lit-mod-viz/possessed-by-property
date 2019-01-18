@@ -1,5 +1,6 @@
 1. Noun
 
+<<<<<<< HEAD
     A. - char-possession sets (3 days)
 	  - Who owns what in the novel?
 		  - Requirements: Characters
@@ -37,11 +38,24 @@
 	  - Look for grammatical forms. E.g:
 		  - NSubj + verb.possession + (PRPN + NP)
 	  
+3.  Sentiment analysis around each edge (2 days)
+	- Out-of-the-box method
  
-3.  Change in the over text time
+4.  Change in the over text time
 
 	- Make sure to extract all words with their index
 	
-4.  EDA over all of the above
+5.  EDA over all of the above
 
-5.  Iterate
+6.  Iterate
+
+
+
+
+
+
+
+
+
+
+
