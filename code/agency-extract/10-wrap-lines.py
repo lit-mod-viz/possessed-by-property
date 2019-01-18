@@ -16,4 +16,4 @@ for filename in os.listdir(path):
             wrapped = wrapped + line.replace('\n', ' ')
 
     with open(path + filename + '.wrap', 'w') as write_file:
-        write_file.write(wrapped)
+        write_file.write(wrapped)x

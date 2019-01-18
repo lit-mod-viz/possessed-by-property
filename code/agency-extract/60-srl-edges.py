@@ -75,7 +75,7 @@ for block in csv_blocks:
                         nounb = clean_string(srl_block_panda_df[0][index1])
                         labelb = srl_block_panda_df[1][index1].strip()
 
-                        if any(l in item1 for l in benefactor_labels) and                         labelb in noun_labels and nounb and nounb not in blacklist:
+                        if any(l in item1 for l in benefactor_labels) and labelb in noun_labels and nounb and nounb not in blacklist:
                             benefactors.append(nounb)
 
                     srl_edge_list.append([actor, benefactors])
