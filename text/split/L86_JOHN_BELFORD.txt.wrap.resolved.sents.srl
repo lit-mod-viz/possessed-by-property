@@ -1,0 +1,173 @@
+              <	        FW	         O	         O	              -	(S1(VP*
+              i	        FW	         O	         O	              -	(PP(NP*)
+              >	        FW	         O	         O	              -	*
+          Smith	       NNP	      S-NP	     S-PER	              -	(NP(NP(NP(NP(NP(NP*
+             's	       POS	      S-NP	         O	              -	*)
+              ,	         ,	         O	         O	              -	*
+              <	        FW	         O	         O	              -	(NP(QP*
+             /i	        FW	         O	         O	              -	*
+              >	        FW	         O	         O	              -	*
+              8	        FW	         O	         O	              -	*
+              <	        FW	         O	         O	              -	*
+              i	        FW	         O	         O	              -	*
+              >	        FW	         O	         O	              -	*
+        o'clock	        FW	         O	         O	              -	*)))
+             in	        IN	      S-PP	         O	              -	(PP*
+            the	        DT	      B-NP	         O	              -	(NP*
+        morning	        NN	      E-NP	         O	              -	*)))
+              .	         .	         O	         O	              -	*
+              <	        FW	         O	         O	              -	*
+             /i	        FW	         O	         O	              -	*
+              >	        FW	         O	         O	              -	*)
+            THE	       NNP	      B-NP	         O	              -	(SBAR(S(NP*
+           Lady	       NNP	      E-NP	         O	              -	*)
+             is	       VBZ	      S-VP	         O	              -	(VP*
+             in	        IN	      S-PP	         O	              -	(PP*
+              a	        DT	      B-NP	         O	              -	(NP*
+        slumber	        NN	      E-NP	         O	              -	*))))))
+              .	         .	         O	         O	              -	*))))
+
+           Mrs.	       NNP	      B-NP	         O	              -	      B-A1	      B-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	(S1(S(NP*
+         Lovick	       NNP	      E-NP	     S-PER	              -	      E-A1	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	         O	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            who	        WP	      S-NP	         O	              -	    S-R-A1	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	(WHNP*)
+            sat	       VBD	      S-VP	         O	            sat	       B-V	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	(VP*
+             up	        RP	     S-PRT	         O	              -	       E-V	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	(ADVP*)
+           with	        IN	      S-PP	         O	              -	      B-A2	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A2	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP(NP*
+        morning	        NN	      E-NP	         O	              -	      E-A2	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+              .	         .	         O	         O	              -	         O	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              <	        FW	         O	         O	              -	         O	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+             /i	        FW	         O	         O	              -	         O	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              >	        FW	         O	         O	              -	         O	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            THE	       NNP	      B-NP	         O	              -	         O	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+           Lady	       NNP	      E-NP	         O	              -	         O	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	         O	      E-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+           says	       VBZ	      S-VP	         O	           says	         O	       S-V	         O	         O	         O	         O	         O	         O	         O	         O	         O	(VP*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            the	        DT	      B-NP	         O	              -	         O	  B-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+        morning	        NN	      E-NP	         O	              -	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+              .	         .	         O	         O	              -	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              <	        FW	         O	         O	              -	         O	  I-AM-TMP	      B-A0	         O	         O	         O	         O	         O	         O	         O	         O	*
+             /i	        FW	         O	         O	              -	         O	  I-AM-TMP	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	*
+              >	        FW	         O	         O	              -	         O	  I-AM-TMP	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	*
+            THE	       NNP	      B-NP	         O	              -	         O	  I-AM-TMP	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+           Lady	       NNP	      E-NP	         O	              -	         O	  I-AM-TMP	      E-A0	         O	         O	         O	         O	         O	         O	         O	         O	*))))
+            had	       VBD	      S-VP	         O	            had	         O	  I-AM-TMP	       S-V	         O	         O	         O	         O	         O	         O	         O	         O	(VP*
+              a	        DT	      B-NP	         O	              -	         O	  I-AM-TMP	      B-A1	         O	         O	         O	         O	         O	         O	         O	         O	(NP(NP*
+         better	       JJR	      I-NP	         O	              -	         O	  I-AM-TMP	      I-A1	         O	         O	         O	         O	         O	         O	         O	         O	*
+          night	        NN	      E-NP	         O	              -	         O	  I-AM-TMP	      I-A1	         O	         O	         O	         O	         O	         O	         O	         O	*)
+           than	        IN	    S-SBAR	         O	              -	         O	  I-AM-TMP	      I-A1	         O	         O	         O	         O	         O	         O	         O	         O	(SBAR*
+            was	       VBD	      B-VP	         O	              -	         O	  I-AM-TMP	      I-A1	         O	         O	         O	         O	         O	         O	         O	         O	(VP*
+       expected	       VBN	      E-VP	         O	       expected	         O	  I-AM-TMP	      E-A1	       S-V	         O	         O	         O	         O	         O	         O	         O	(VP*)))))
+              ;	         :	         O	         O	              -	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            for	        IN	      S-PP	         O	              -	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	         O	(PP*
+          altho	        JJ	      S-NP	         O	              -	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+              '	        ''	         O	         O	              -	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	         O	*))
+            the	        DT	      B-NP	         O	              -	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+        morning	        NN	      E-NP	         O	              -	         O	  E-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              <	        FW	         O	         O	              -	         O	         O	         O	         O	      B-A0	         O	         O	         O	         O	         O	         O	*
+             /i	        FW	         O	         O	              -	         O	         O	         O	         O	      I-A0	         O	         O	         O	         O	         O	         O	*
+              >	        FW	         O	         O	              -	         O	         O	         O	         O	      I-A0	         O	         O	         O	         O	         O	         O	*
+            THE	       NNP	      B-NP	         O	              -	         O	         O	         O	         O	      I-A0	         O	         O	         O	         O	         O	         O	(NP*
+           Lady	       NNP	      E-NP	         O	              -	         O	         O	         O	         O	      E-A0	         O	         O	         O	         O	         O	         O	*))
+          slept	       VBD	      S-VP	         O	          slept	         O	         O	         O	         O	       S-V	         O	         O	         O	         O	         O	         O	(VP*
+         little	        JJ	      S-NP	         O	              -	         O	         O	         O	         O	      S-A1	         O	         O	         O	         O	         O	         O	(NP(NP*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            the	        DT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+        morning	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              <	        FW	         O	         O	              -	         O	         O	         O	         O	         O	      B-A1	         O	         O	         O	         O	         O	*
+             /i	        FW	         O	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	*
+              >	        FW	         O	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	*
+            THE	       NNP	      B-NP	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	(NP*
+           Lady	       NNP	      E-NP	         O	              -	         O	         O	         O	         O	         O	      E-A1	         O	         O	         O	         O	         O	*)))
+         seemed	       VBD	      S-VP	         O	         seemed	         O	         O	         O	         O	         O	       S-V	         O	         O	         O	         O	         O	(VP*
+           easy	        JJ	    S-ADJP	         O	              -	         O	         O	         O	         O	         O	    S-C-A1	         O	         O	         O	         O	         O	(ADJP*))
+              ;	         :	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            and	        CC	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            the	        DT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP(NP*
+         easier	       JJR	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+            for	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(PP*
+            the	        DT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+          pious	        JJ	      I-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+          frame	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*))
+            the	        DT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+        morning	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              <	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+             /i	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              >	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            THE	       NNP	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(S(NP*
+           Lady	       NNP	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+            was	       VBD	      S-VP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(VP*
+             in	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(PP*)))
+              ;	         :	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            all	       PDT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+            the	        DT	      I-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+        morning	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              <	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+             /i	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              >	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            THE	        DT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	      B-A0	         O	         O	         O	         O	(S(NP*
+           Lady	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	      E-A0	         O	         O	         O	         O	*)
+         waking	       VBG	      S-VP	         O	         waking	         O	         O	         O	         O	         O	         O	       S-V	         O	         O	         O	         O	(VP*
+        moments	       NNS	      S-NP	         O	              -	         O	         O	         O	         O	         O	         O	      B-A1	      S-A1	         O	         O	         O	(NP*)
+          being	       VBG	      B-VP	         O	              -	         O	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	(S(VP*
+          taken	       VBN	      E-VP	         O	          taken	         O	         O	         O	         O	         O	         O	      I-A1	       B-V	         O	         O	         O	(VP*
+             up	        RP	     S-PRT	         O	              -	         O	         O	         O	         O	         O	         O	      I-A1	       E-V	         O	         O	         O	(ADVP*)
+             in	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	      I-A1	  B-AM-MNR	         O	         O	         O	(PP(PP*
+       devotion	        NN	      S-NP	         O	              -	         O	         O	         O	         O	         O	         O	      I-A1	  E-AM-MNR	         O	         O	         O	(NP*))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	*
+             or	        CC	         O	         O	              -	         O	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	*
+             in	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	(PP*
+             an	        DT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	(NP*
+    ejaculatory	        JJ	      I-NP	         O	              -	         O	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	*
+        silence	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	      E-A1	         O	         O	         O	         O	*))))))))
+              ;	         :	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            the	        DT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+        morning	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              <	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      B-A1	         O	         O	*
+             /i	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	         O	         O	*
+              >	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	         O	         O	*
+            THE	       NNP	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	         O	         O	(S(NP*
+           Lady	       NNP	      I-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	         O	         O	*
+          hands	       NNS	      I-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	         O	         O	*
+            and	        CC	      I-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	         O	         O	*
+           eyes	       NNS	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      E-A1	         O	         O	*)
+          often	        RB	    S-ADVP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	  S-AM-TMP	         O	         O	(ADVP*)
+         lifted	       VBD	      S-VP	         O	         lifted	         O	         O	         O	         O	         O	         O	         O	         O	       B-V	         O	         O	(VP*
+             up	        RP	     S-PRT	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	       E-V	         O	         O	(ADVP*)))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            and	        CC	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            the	        DT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+        morning	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              <	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	      B-A1	*
+             /i	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	*
+              >	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	      E-A1	*
+            THE	       NNP	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	      B-A0	      B-A0	(NP(NP(NP*
+           Lady	       NNP	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	      E-A0	      E-A0	*
+           lips	       VBZ	      B-VP	         O	           lips	         O	         O	         O	         O	         O	         O	         O	         O	         O	       S-V	         O	*)
+         moving	       VBG	      E-VP	         O	         moving	         O	         O	         O	         O	         O	         O	         O	         O	         O	      B-A1	       S-V	(VP*
+           with	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	  B-AM-MNR	(PP*
+              a	        DT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	  I-AM-MNR	(NP*
+         fervor	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	  I-AM-MNR	*))))
+         worthy	        JJ	    S-ADJP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	  I-AM-MNR	(ADJP*
+             of	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	  I-AM-MNR	(PP*
+          these	        DT	      S-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	  I-AM-MNR	(NP*
+            the	        DT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	  I-AM-MNR	*
+        morning	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	      E-A1	  E-AM-MNR	*))))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              <	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(S(VP*
+             /i	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              >	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            THE	       NNP	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP(NP*
+           Lady	       NNP	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+           last	        JJ	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+          hours	       NNS	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*))))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*))
+

@@ -1,0 +1,112 @@
+              "	       SYM	         O	         O	              -	         O	         O	         O	         O	         O	         O	(S1(S(VP(VP*
+            Mr.	       NNP	      B-NP	         O	              -	      B-A1	      B-A0	         O	         O	         O	         O	(SBAR(S(NP*
+        Belford	       NNP	      E-NP	     S-PER	              -	      E-A1	      E-A0	         O	         O	         O	         O	*)
+          dates	       VBZ	      S-VP	         O	          dates	       S-V	         O	         O	         O	         O	         O	(VP*
+          again	        RB	    S-ADVP	         O	              -	  S-AM-TMP	         O	         O	         O	         O	         O	(ADVP*)
+             on	        IN	      S-PP	         O	              -	      B-A2	         O	         O	         O	         O	         O	(PP*
+       Thursday	       NNP	      B-NP	         O	              -	      I-A2	         O	         O	         O	         O	         O	(NP(NP*
+        morning	        NN	      I-NP	         O	              -	      I-A2	         O	         O	         O	         O	         O	*)
+              <	        FW	      E-NP	         O	              -	      I-A2	         O	         O	         O	         O	         O	*
+              i	        FW	      S-NP	         O	              -	      I-A2	         O	         O	         O	         O	         O	(NAC*
+              >	        FW	         O	         O	              -	      I-A2	         O	         O	         O	         O	         O	*
+             10	        FW	         O	         O	              -	      I-A2	         O	         O	         O	         O	         O	*
+              <	        FW	         O	         O	              -	      I-A2	         O	         O	         O	         O	         O	*
+             /i	        FW	         O	         O	              -	      I-A2	         O	         O	         O	         O	         O	*
+              >	        FW	         O	         O	              -	      I-A2	         O	         O	         O	         O	         O	*
+             o'	        FW	         O	         O	              -	      I-A2	         O	         O	         O	         O	         O	*)
+          clock	        FW	         O	         O	              -	      E-A2	         O	         O	         O	         O	         O	*))))))
+              ;	         :	         O	         O	              -	         O	         O	         O	         O	         O	         O	*
+            and	        CC	         O	         O	              -	         O	         O	         O	         O	         O	         O	*
+          gives	       VBZ	      S-VP	         O	          gives	         O	       S-V	         O	         O	         O	         O	(VP*
+             an	        DT	      B-NP	         O	              -	         O	      B-A1	         O	         O	         O	         O	(NP(NP*
+        account	        NN	      E-NP	         O	              -	         O	      I-A1	         O	         O	         O	         O	*)
+             of	        IN	      S-PP	         O	              -	         O	      I-A1	         O	         O	         O	         O	(PP*
+              a	        DT	      B-NP	         O	              -	         O	      I-A1	      B-A1	      B-A1	         O	         O	(NP(NP*
+   conversation	        NN	      E-NP	         O	              -	         O	      I-A1	      E-A1	      E-A1	         O	         O	*)
+          which	       WDT	      S-NP	         O	              -	         O	      I-A1	    S-R-A1	    S-R-A1	         O	         O	(PP(WHNP*)
+             he	       PRP	      S-NP	         O	              -	         O	      I-A1	      S-A0	      S-A0	         O	         O	(PP(NP*)
+            had	       VBD	      B-VP	         O	              -	         O	      I-A1	         O	         O	         O	         O	(NP*
+           just	        RB	      I-VP	         O	              -	         O	      I-A1	  S-AM-TMP	         O	         O	         O	(RRC(ADVP*)
+           held	       VBN	      E-VP	         O	           held	         O	      I-A1	       S-V	         O	         O	         O	(VP*
+           with	        IN	      S-PP	         O	              -	         O	      I-A1	      B-A2	         O	         O	         O	(PP(PP*
+            the	        DT	      B-NP	         O	              -	         O	      I-A1	      I-A2	         O	         O	         O	(NP*
+           lady	        NN	      E-NP	         O	              -	         O	      I-A1	      E-A2	         O	         O	         O	*))
+              ,	         ,	         O	         O	              -	         O	      I-A1	         O	         O	         O	         O	*
+           upon	        IN	      S-PP	         O	              -	         O	      I-A1	         O	         O	         O	         O	(PP*
+            the	        DT	      B-NP	         O	              -	         O	      I-A1	         O	      B-A1	         O	         O	(NP(NP*
+        subject	        NN	      E-NP	         O	              -	         O	      I-A1	         O	      E-A1	         O	         O	*)
+             of	        IN	      S-PP	         O	              -	         O	      I-A1	         O	         O	         O	         O	(PP*
+           Miss	       NNP	      B-NP	     B-PER	              -	         O	      I-A1	         O	         O	         O	         O	(NP(NP*
+       Montague	       NNP	      E-NP	     E-PER	              -	         O	      I-A1	         O	         O	         O	         O	*
+             's	       POS	      B-NP	         O	              -	         O	      I-A1	         O	         O	         O	         O	*)
+         letter	        NN	      E-NP	         O	              -	         O	      I-A1	         O	         O	         O	         O	*))))
+             to	        TO	      S-PP	         O	              -	         O	      I-A1	         O	         O	         O	         O	(PP*
+           Miss	       NNP	      B-NP	     B-PER	              -	         O	      I-A1	         O	         O	         O	         O	(NP(NP*
+       Montague	       NNP	      E-NP	     E-PER	              -	         O	      I-A1	         O	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	         O	      I-A1	         O	         O	         O	         O	(PP*
+      preceding	       VBG	      S-VP	         O	      preceding	         O	      I-A1	         O	       S-V	         O	         O	(S(VP*))
+              ,	         ,	         O	         O	              -	         O	      I-A1	         O	         O	         O	         O	*
+            and	        CC	         O	         O	              -	         O	      I-A1	         O	         O	         O	         O	*
+           upon	        IN	      S-PP	         O	              -	         O	      I-A1	         O	         O	         O	         O	(PP(PP*
+            Mr.	       NNP	      B-NP	     B-PER	              -	         O	      I-A1	         O	         O	         O	         O	(NP(NP*
+       Lovelace	       NNP	      E-NP	     E-PER	              -	         O	      I-A1	         O	         O	         O	         O	*
+             's	       POS	      B-NP	         O	              -	         O	      I-A1	         O	         O	         O	         O	*)
+   alternatives	       NNS	      E-NP	         O	              -	         O	      I-A1	         O	         O	         O	         O	*))
+              ,	         ,	         O	         O	              -	         O	      I-A1	         O	         O	         O	         O	*
+             as	        IN	    S-SBAR	         O	              -	         O	      I-A1	         O	         O	         O	         O	(SBAR*
+      mentioned	       VBN	      S-VP	         O	      mentioned	         O	      I-A1	         O	         O	       S-V	         O	(S(VP*
+             in	        IN	      S-PP	         O	              -	         O	      I-A1	         O	         O	      B-A3	         O	(PP*
+         Letter	       NNP	      S-NP	         O	              -	         O	      I-A1	         O	         O	      I-A3	         O	(NP(NP*
+             N.	       NNP	         O	     S-PER	              -	         O	      I-A1	         O	         O	      I-A3	         O	*)
+              <	        FW	         O	         O	              -	         O	      I-A1	         O	         O	      I-A3	         O	*
+              i	        FW	         O	         O	              -	         O	      I-A1	         O	         O	      I-A3	         O	(ADJP*
+              >	        FW	         O	         O	              -	         O	      I-A1	         O	         O	      I-A3	         O	*)
+             XC	       NNP	      S-NP	         O	              -	         O	      I-A1	         O	         O	      I-A3	         O	*))
+              .	         .	         O	         O	              -	         O	      I-A1	         O	         O	      I-A3	         O	*
+              <	        FW	         O	         O	              -	         O	      I-A1	         O	         O	      I-A3	         O	*
+             /i	        FW	         O	         O	              -	         O	      I-A1	         O	         O	      I-A3	         O	*
+              >	        FW	         O	         O	              -	         O	      I-A1	         O	         O	      I-A3	         O	*
+          which	       WDT	      S-NP	         O	              -	         O	      I-A1	         O	         O	      I-A3	    S-R-A1	(SBAR(WHNP*)
+            Mr.	       NNP	      B-NP	         O	              -	         O	      I-A1	         O	         O	      I-A3	      B-A0	(S(NP*
+        Belford	       NNP	      E-NP	     S-PER	              -	         O	      I-A1	         O	         O	      I-A3	      E-A0	*)
+      supported	       VBD	      S-VP	         O	      supported	         O	      I-A1	         O	         O	      I-A3	       S-V	(VP*
+           with	        IN	      S-PP	         O	              -	         O	      I-A1	         O	         O	      I-A3	  B-AM-MNR	(PP*
+            the	        DT	      B-NP	         O	              -	         O	      I-A1	         O	         O	      I-A3	  I-AM-MNR	(NP*
+         utmost	        JJ	      I-NP	         O	              -	         O	      I-A1	         O	         O	      I-A3	  I-AM-MNR	*
+    earnestness	        NN	      E-NP	         O	              -	         O	      E-A1	         O	         O	      E-A3	  E-AM-MNR	*)))))))))))))))))))))))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	*))
+
+            But	        CC	         O	         O	              -	         O	  S-AM-DIS	(S1(S(S*
+              ,	         ,	         O	         O	              -	         O	         O	*
+             as	        IN	      S-PP	         O	              -	         O	  B-AM-CAU	(SBAR*
+            the	        DT	      B-NP	         O	              -	      B-A1	  I-AM-CAU	(S(NP(NP*
+         result	        NN	      E-NP	         O	              -	      I-A1	  I-AM-CAU	*)
+             of	        IN	      S-PP	         O	              -	      I-A1	  I-AM-CAU	(PP*
+           this	        DT	      B-NP	         O	              -	      I-A1	  I-AM-CAU	(NP*
+   conversation	        NN	      E-NP	         O	              -	      E-A1	  I-AM-CAU	*)))
+           will	        MD	      B-VP	         O	              -	  S-AM-MOD	  I-AM-CAU	(VP*
+             be	        VB	      I-VP	         O	              -	         O	  I-AM-CAU	(VP*
+          found	       VBN	      E-VP	         O	          found	       S-V	  I-AM-CAU	(VP*
+             in	        IN	      S-PP	         O	              -	  B-AM-LOC	  I-AM-CAU	(PP*
+            the	        DT	      B-NP	         O	              -	  I-AM-LOC	  I-AM-CAU	(NP*
+     subsequent	        JJ	      I-NP	         O	              -	  I-AM-LOC	  I-AM-CAU	*
+        letters	       NNS	      E-NP	         O	              -	  E-AM-LOC	  E-AM-CAU	*)))
+              ,	         ,	         O	         O	              -	         O	         O	*
+            Mr.	       NNP	      B-NP	     B-PER	              -	         O	         O	(NP(NP(NP*
+        Belford	       NNP	      E-NP	     E-PER	              -	         O	         O	*
+             's	       POS	      B-NP	         O	              -	         O	         O	*)
+          pleas	       NNS	      I-NP	         O	              -	         O	         O	*
+            and	        CC	      I-NP	         O	              -	         O	         O	*
+      arguments	       NNS	      E-NP	         O	              -	         O	         O	*)
+              ,	         ,	         O	         O	              -	         O	         O	*
+            and	        CC	         O	         O	              -	         O	         O	*
+            the	        DT	      B-NP	         O	              -	         O	      B-A1	(NP(NP*
+           lady	        NN	      E-NP	         O	              -	         O	      I-A1	*
+             's	       POS	      B-NP	         O	              -	         O	      I-A1	*)
+        answers	       NNS	      E-NP	         O	              -	         O	      I-A1	*))))))
+              ,	         ,	         O	         O	              -	         O	      E-A1	*
+            are	       VBP	      B-VP	         O	              -	         O	         O	(VP*
+        omitted	       VBN	      E-VP	         O	        omitted	         O	       S-V	(VP*)))
+              .	         .	         O	         O	              -	         O	         O	*
+              "	         .	         O	         O	              -	         O	         O	(NP*)))
+

@@ -1,0 +1,45 @@
+         Friday	       NNP	      B-NP	         O	              -	(S1(NP*
+        evening	        NN	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+            MR.	       NNP	      B-NP	         O	              -	      B-A0	(S1(S(NP*
+       Lovelace	       NNP	      E-NP	     S-PER	              -	      E-A0	*)
+            has	       VBZ	      B-VP	         O	              -	         O	(VP*
+           seen	       VBN	      E-VP	         O	           seen	       S-V	(VP*
+            two	        CD	      B-NP	         O	              -	      B-A1	(NP(NP(QP*
+             or	        CC	      I-NP	         O	              -	      I-A1	*
+          three	        CD	      I-NP	         O	              -	      I-A1	*)
+         houses	       NNS	      E-NP	         O	              -	      E-A1	*)
+              ;	         :	         O	         O	              -	         O	*
+            but	        CC	         O	         O	              -	         O	*
+           none	        NN	      S-NP	         O	              -	         O	(NP(NP*)
+             to	        TO	      S-PP	         O	              -	         O	(PP*
+       Lovelace	       NNP	      B-NP	     S-PER	              -	         O	(NP*
+           mind	        NN	      E-NP	         O	              -	         O	*))))))
+              .	         .	         O	         O	              -	         O	*))
+
+            But	        CC	         O	         O	              -	         O	         O	         O	         O	(S1(S*
+       Lovelace	       NNP	      S-NP	     S-PER	              -	      S-A0	         O	         O	         O	(NP*)
+            has	       VBZ	      B-VP	         O	              -	         O	         O	         O	         O	*
+          heard	       VBN	      E-VP	         O	          heard	       S-V	         O	         O	         O	*
+             of	        IN	      S-PP	         O	              -	      B-A1	         O	         O	         O	*
+            one	        CD	      S-NP	         O	              -	      I-A1	      S-A0	         O	         O	(NP(NP*)
+          which	       WDT	      S-NP	         O	              -	      I-A1	    S-R-A0	         O	         O	(SBAR(WHNP*)
+          looks	       VBZ	      S-VP	         O	          looks	      I-A1	       S-V	         O	         O	(S(VP*
+      promising	        JJ	    S-ADJP	         O	              -	      E-A1	      S-A1	         O	         O	(ADJP*)))))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	(PRN*
+       Lovelace	       NNP	      S-NP	     S-PER	              -	         O	         O	      S-A0	         O	(S(NP*)
+           says	       VBZ	      S-VP	         O	           says	         O	         O	       S-V	         O	(VP*))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	*)
+            and	        CC	         O	         O	              -	         O	         O	    B-C-A1	         O	*
+          which	       WDT	      S-NP	         O	              -	         O	         O	    I-C-A1	         O	(SBAR(WHNP*)
+       Lovelace	       NNP	      S-NP	     S-PER	              -	         O	         O	    I-C-A1	      S-A1	(S(NP*)
+             is	       VBZ	      B-VP	         O	              -	         O	         O	    I-C-A1	         O	(VP*
+             to	        TO	      I-VP	         O	              -	         O	         O	    I-C-A1	         O	(S(VP*
+        inquire	        VB	      E-VP	         O	        inquire	         O	         O	    I-C-A1	       S-V	(VP*
+          about	        IN	      S-PP	         O	              -	         O	         O	    I-C-A1	  B-AM-TMP	(PP*
+             in	        IN	      S-PP	         O	              -	         O	         O	    I-C-A1	  I-AM-TMP	(PP*
+            the	        DT	      B-NP	         O	              -	         O	         O	    I-C-A1	  I-AM-TMP	(NP*
+        morning	        NN	      E-NP	         O	              -	         O	         O	    E-C-A1	  E-AM-TMP	*)))))))))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	*))
+

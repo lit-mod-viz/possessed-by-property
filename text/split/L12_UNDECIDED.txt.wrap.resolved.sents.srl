@@ -1,0 +1,50 @@
+            26.	       SYM	         O	         O	              -	(S1(NP*))
+
+              <	       SYM	      S-NP	         O	              -	         O	         O	(S1(PP*
+              i	       PRP	      S-NP	         O	              -	         O	         O	(SBAR(S(NP*)
+              >	       VBZ	         O	         O	              -	         O	         O	(VP*
+            The	        DT	      B-NP	         O	              -	      B-A1	         O	(SBAR(S(NP(NP*
+          whole	        NN	      E-NP	         O	              -	      I-A1	         O	*)
+             of	        IN	      S-PP	         O	              -	      I-A1	         O	(PP*
+           this	        DT	      B-NP	         O	              -	      I-A1	         O	(NP*
+          black	        JJ	      I-NP	         O	              -	      I-A1	         O	*
+    transaction	        NN	      E-NP	         O	              -	      E-A1	         O	*)))
+             is	       VBZ	      B-VP	         O	              -	         O	         O	(VP*
+          given	       VBN	      E-VP	         O	          given	       S-V	         O	(VP*
+             by	        IN	      S-PP	         O	              -	      B-A0	         O	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A0	         O	(NP*
+        injured	        JJ	      I-NP	         O	              -	      I-A0	         O	*
+           lady	        NN	      E-NP	         O	              -	      I-A0	         O	*))))))
+              ,	         ,	         O	         O	              -	      I-A0	         O	*
+             to	        TO	      S-PP	         O	              -	      I-A0	         O	(PP*
+           Miss	       NNP	      B-NP	     B-PER	              -	      I-A0	         O	(NP*
+           Howe	       NNP	      E-NP	     E-PER	              -	      I-A0	         O	*))
+              ,	         ,	         O	         O	              -	      I-A0	         O	*
+             in	        IN	      S-PP	         O	              -	      I-A0	         O	(NP(PP*
+           Miss	       NNP	      B-NP	     B-PER	              -	      I-A0	         O	(NP*
+           Howe	       NNP	      I-NP	     E-PER	              -	      I-A0	         O	*))
+     subsequent	        JJ	      I-NP	         O	              -	      I-A0	         O	(NP(NP*
+        letters	       NNS	      E-NP	         O	              -	      I-A0	         O	*)
+              ,	         ,	         O	         O	              -	      I-A0	         O	*
+          dated	       VBN	      S-VP	         O	          dated	      I-A0	       S-V	(PP*
+       Thursday	       NNP	      B-NP	         O	              -	      I-A0	      B-A2	(NP*
+           July	       NNP	      E-NP	         O	              -	      I-A0	      I-A2	*
+              <	        FW	         O	         O	              -	      I-A0	      I-A2	*
+             /i	        FW	         O	         O	              -	      I-A0	      I-A2	*
+              >	        FW	         O	         O	              -	      I-A0	      I-A2	*
+             6.	         .	         O	         O	              -	      E-A0	      E-A2	*)))))))))
+
+              <	        FW	         O	         O	              -	      B-A0	(S1(FRAG(PP*
+              i	        FW	         O	         O	              -	      I-A0	(NP*))
+              >	        FW	         O	         O	              -	      I-A0	(NP*
+             To	        TO	      S-PP	         O	              -	      I-A0	(SBAR(WHPP*
+          which	       WDT	      S-NP	         O	              -	      I-A0	(WHNP*))
+            the	        DT	      B-NP	         O	              -	      I-A0	(S(NP*
+         reader	        NN	      E-NP	         O	              -	      E-A0	*)
+             is	       VBZ	      B-VP	         O	              -	         O	(VP*
+       referred	       VBN	      E-VP	         O	       referred	       S-V	(VP*))))
+              .	         .	         O	         O	              -	         O	*
+              <	        FW	         O	         O	              -	      B-A2	*
+             /i	        FW	         O	         O	              -	      I-A2	*
+              >	        FW	         O	         O	              -	      E-A2	*)))
+

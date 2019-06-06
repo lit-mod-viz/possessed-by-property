@@ -1,0 +1,25 @@
+           Copy	        NN	      S-NP	         O	              -	         O	      B-A1	         O	(S1(S(NP(NP(NP*)
+             of	        IN	      S-PP	         O	              -	         O	      I-A1	         O	(PP*
+            the	        DT	      B-NP	         O	              -	         O	      I-A1	         O	(NP*
+      requested	       VBN	      I-NP	         O	      requested	       S-V	      I-A1	         O	*
+       PREAMBLE	       NNP	      E-NP	         O	              -	      S-A1	      I-A1	         O	*)))
+             to	        TO	      S-PP	         O	              -	         O	      I-A1	         O	(PP*
+            the	        DT	      B-NP	         O	              -	         O	      I-A1	         O	(NP(NP*
+        clauses	       NNS	      E-NP	         O	              -	         O	      I-A1	         O	*)
+             in	        IN	      S-PP	         O	              -	         O	      I-A1	         O	(PP*
+            her	      PRP$	      B-NP	         O	              -	         O	      I-A1	         O	(NP*
+    grandfather	        NN	      E-NP	         O	              -	         O	      I-A1	         O	*
+             's	       POS	      B-NP	         O	              -	         O	      E-A1	         O	*)))))
+           will	        NN	      E-NP	         O	              -	         O	         O	         O	(VP*
+              ,	         ,	         O	         O	              -	         O	         O	         O	*
+             in	        IN	      S-PP	         O	              -	         O	  B-AM-ADV	         O	(PP*
+            her	      PRP$	      B-NP	         O	              -	         O	  I-AM-ADV	         O	(NP*
+         favour	        NN	      E-NP	         O	              -	         O	  E-AM-ADV	         O	*))
+              ,	         ,	         O	         O	              -	         O	         O	         O	*
+       inclosed	       VBN	      S-VP	         O	       inclosed	         O	       S-V	         O	(VP*
+             in	        IN	      S-PP	         O	              -	         O	  B-AM-LOC	         O	(PP*
+            the	        DT	      B-NP	         O	              -	         O	  I-AM-LOC	         O	(NP*
+      preceding	       VBG	      I-NP	         O	      preceding	         O	  I-AM-LOC	       S-V	*
+         letter	        NN	      E-NP	         O	              -	         O	  E-AM-LOC	      S-A0	*))))
+              .	         .	         O	         O	              -	         O	         O	         O	*))
+

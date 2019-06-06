@@ -1,0 +1,51 @@
+             He	       PRP	      S-NP	         O	              -	      S-A0	         O	         O	(S1(S(NP*)
+          gives	       VBZ	      S-VP	         O	          gives	       S-V	         O	         O	*
+             He	       PRP	      S-NP	         O	              -	      B-A1	      S-A0	         O	(NP*)
+         friend	       VBP	      S-VP	         O	         friend	      I-A1	       S-V	         O	*
+             an	        DT	      B-NP	         O	              -	      I-A1	      B-A1	         O	(NP*
+        account	        NN	      E-NP	         O	              -	      I-A1	      I-A1	         O	*)
+             of	        IN	      S-PP	         O	              -	      I-A1	      I-A1	         O	(PP*
+          their	      PRP$	      B-NP	         O	              -	      I-A1	      I-A1	         O	(NP*
+      interview	        NN	      E-NP	         O	              -	      I-A1	      E-A1	         O	*))
+           that	        IN	    S-SBAR	         O	              -	      I-A1	  B-AM-TMP	         O	(WHNP*)
+        morning	        NN	      S-NP	         O	              -	      I-A1	  E-AM-TMP	         O	(NP*)
+              ;	         :	         O	         O	              -	      I-A1	         O	         O	*
+            and	        CC	         O	         O	              -	      I-A1	         O	         O	*
+             of	        IN	      S-PP	         O	              -	      I-A1	         O	         O	(S(PP*
+            the	        DT	      B-NP	         O	              -	      I-A1	         O	         O	(NP(NP*
+          happy	        JJ	      I-NP	         O	              -	      I-A1	         O	         O	*
+        effects	       NNS	      E-NP	         O	              -	      E-A1	         O	         O	*)
+             of	        IN	      S-PP	         O	              -	         O	         O	         O	(PP*
+             He	       PRP	      S-NP	         O	              -	         O	         O	      S-A0	(NP*))))
+         cousin	       VBP	      S-VP	         O	         cousin	         O	         O	       S-V	(VP*
+       Montague	       NNP	      S-NP	     S-PER	              -	         O	         O	      B-A1	(SBAR(S(NP(NP(NP*
+             's	       POS	      B-NP	         O	              -	         O	         O	      I-A1	*)
+         letter	        NN	      E-NP	         O	              -	         O	         O	      E-A1	*)
+             in	        IN	      S-PP	         O	              -	         O	         O	  B-AM-LOC	(PP*
+             He	       PRP	      S-NP	         O	              -	         O	         O	  I-AM-LOC	(NP*)))
+         favour	       VBP	      S-VP	         O	              -	         O	         O	  E-AM-LOC	(VP*)))))
+              .	         .	         O	         O	              -	         O	         O	         O	*))
+
+            Her	      PRP$	      B-NP	         O	              -	         O	         O	(S1(S(S(NP*
+       reserves	       NNS	      E-NP	         O	              -	         O	         O	*)
+              ,	         ,	         O	         O	              -	         O	         O	*
+        however	        RB	    S-ADVP	         O	              -	  S-AM-DIS	         O	(ADVP*)
+              ,	         ,	         O	         O	              -	         O	         O	*
+             He	       PRP	      S-NP	         O	              -	      S-A0	         O	(NP*)
+          tells	       VBZ	      S-VP	         O	          tells	       S-V	         O	(VP*
+             He	       PRP	      S-NP	         O	              -	      S-A1	      S-A1	(NP*)))
+              ,	         ,	         O	         O	              -	         O	         O	*
+            are	       VBP	      B-VP	         O	              -	         O	         O	(VP*
+            not	        RB	      I-VP	         O	              -	         O	  S-AM-NEG	*
+     absolutely	        RB	      I-VP	         O	              -	         O	  S-AM-EXT	(ADJP*
+       banished	       VBN	      E-VP	         O	       banished	         O	       S-V	*))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+            But	        CC	         O	         O	              -	  S-AM-DIS	(S1(S*
+           this	        DT	      S-NP	         O	              -	      S-A1	(NP*)
+             He	       PRP	      S-NP	         O	              -	      S-A0	(NP*)
+        imputes	       VBZ	      B-VP	         O	        imputes	       S-V	(VP*
+             to	        TO	      I-VP	         O	              -	      B-A1	(S(VP*
+           form	        VB	      E-VP	         O	              -	      E-A1	(VP*))))
+              .	         .	         O	         O	              -	         O	*))
+

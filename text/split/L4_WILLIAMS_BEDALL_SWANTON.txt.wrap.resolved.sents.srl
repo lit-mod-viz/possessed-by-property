@@ -1,0 +1,94 @@
+            The	        DT	      B-NP	         O	              -	         O	         O	         O	(S1(X(NP(NP*
+           WILL	       NNP	      E-NP	         O	              -	         O	         O	         O	*)
+              ;	         :	         O	         O	              -	         O	         O	         O	*
+             To	        TO	      S-PP	         O	              -	         O	         O	         O	(SBAR(WHPP*
+          which	       WDT	      S-NP	         O	              -	         O	         O	         O	(WHNP*))
+            the	        DT	      B-NP	         O	              -	         O	         O	         O	(S(NP(NP*
+      following	       VBG	      I-NP	         O	      following	       S-V	         O	         O	*
+       Preamble	       NNP	      E-NP	    S-MISC	              -	      S-A1	         O	         O	*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	*
+        written	       VBN	      S-VP	         O	        written	         O	       S-V	         O	(VP*
+             on	        IN	      S-PP	         O	              -	         O	  B-AM-LOC	         O	(PP*
+              a	        DT	      B-NP	         O	              -	         O	  I-AM-LOC	         O	(NP*
+       separate	        JJ	      I-NP	         O	              -	         O	  I-AM-LOC	         O	*
+          paper	        NN	      E-NP	         O	              -	         O	  E-AM-LOC	         O	*)))
+              ,	         ,	         O	         O	              -	         O	         O	         O	*)
+            was	       VBD	      B-VP	         O	              -	         O	         O	         O	(VP*
+       stitched	       VBN	      E-VP	         O	       stitched	         O	         O	       S-V	(VP*
+           with	        IN	      S-PP	         O	              -	         O	         O	      B-A2	(PP*
+          black	        JJ	      B-NP	         O	              -	         O	         O	      I-A2	(NP*
+           silk	        NN	      E-NP	         O	              -	         O	         O	      E-A2	*)))))))
+              .	         .	         O	         O	              -	         O	         O	         O	*))
+
+         Signed	       VBN	      S-VP	         O	         Signed	       S-V	         O	         O	         O	         O	         O	         O	         O	         O	(S1(S(VP*
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+         sealed	       VBN	      B-VP	         O	         sealed	         O	       S-V	         O	         O	         O	         O	         O	         O	         O	*
+              ,	         ,	      I-VP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+      published	       VBN	      E-VP	         O	      published	         O	         O	       S-V	         O	         O	         O	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            and	        CC	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+       declared	       VBD	      S-VP	         O	       declared	         O	         O	         O	       S-V	         O	         O	         O	         O	         O	*
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            the	        DT	      B-NP	         O	              -	         O	      B-A1	      B-A1	  B-AM-TMP	         O	         O	         O	         O	         O	(S(NP*
+            day	        NN	      I-NP	         O	              -	         O	      E-A1	      E-A1	  I-AM-TMP	         O	         O	         O	         O	         O	*
+            and	        CC	      I-NP	         O	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	*
+           year	        NN	      E-NP	         O	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	*
+          above	        IN	      B-VP	         O	              -	         O	         O	         O	  E-AM-TMP	         O	         O	         O	         O	         O	*)
+              -	         :	      I-VP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+        written	       VBN	      E-VP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	(VP*))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+             by	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            the	        DT	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*)
+           said	       VBD	      S-VP	         O	           said	         O	         O	         O	         O	       S-V	         O	         O	         O	         O	*
+       Clarissa	       NNP	      B-NP	     B-PER	              -	         O	         O	         O	         O	      B-A0	         O	         O	         O	         O	(NP*
+        Harlowe	       NNP	      E-NP	     E-PER	              -	         O	         O	         O	         O	      E-A0	         O	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+             as	        IN	    S-SBAR	         O	              -	         O	         O	         O	         O	  B-AM-ADV	         O	         O	         O	         O	(PP*
+       Clarissa	       NNP	      B-NP	     B-PER	              -	         O	         O	         O	         O	  I-AM-ADV	         O	         O	         O	         O	(NP*
+        Harlowe	       NNP	      E-NP	     E-PER	              -	         O	         O	         O	         O	  I-AM-ADV	         O	         O	         O	         O	*)
+           Last	       NNP	      B-NP	         O	              -	         O	         O	         O	         O	  I-AM-ADV	         O	         O	         O	         O	(NP*
+           Will	       NNP	      I-NP	         O	              -	         O	         O	         O	         O	  I-AM-ADV	         O	         O	         O	         O	*
+            and	        CC	      I-NP	         O	              -	         O	         O	         O	         O	  I-AM-ADV	         O	         O	         O	         O	*
+      Testament	       NNP	      E-NP	    S-MISC	              -	         O	         O	         O	         O	  E-AM-ADV	         O	         O	         O	         O	*))
+              ;	         :	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+      contained	       VBN	      S-VP	         O	      contained	         O	         O	         O	         O	         O	       S-V	         O	         O	         O	*
+             in	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	      B-A0	         O	         O	         O	*
+          seven	        CD	      B-NP	         O	              -	         O	         O	         O	         O	         O	      I-A0	         O	         O	         O	(NP*
+         sheets	       NNS	      E-NP	         O	              -	         O	         O	         O	         O	         O	      I-A0	         O	         O	         O	*)
+             of	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	      I-A0	         O	         O	         O	*
+          paper	        NN	      S-NP	         O	              -	         O	         O	         O	         O	         O	      E-A0	         O	         O	         O	(NP*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            all	        DT	      S-NP	         O	              -	         O	         O	         O	         O	         O	         O	      S-A1	         O	         O	(S(NP(NP*)
+        written	       VBN	      S-VP	         O	        written	         O	         O	         O	         O	         O	         O	       S-V	         O	         O	(VP*
+           with	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	  B-AM-MNR	         O	         O	(PP*
+       Clarissa	       NNP	      B-NP	     B-PER	              -	         O	         O	         O	         O	         O	         O	  I-AM-MNR	         O	         O	(NP*
+        Harlowe	       NNP	      I-NP	     E-PER	              -	         O	         O	         O	         O	         O	         O	  I-AM-MNR	         O	         O	*))))
+            own	        JJ	      I-NP	         O	              -	         O	         O	         O	         O	         O	         O	  I-AM-MNR	         O	         O	(VP*
+           hand	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	  E-AM-MNR	         O	         O	(NP*)))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            and	        CC	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+          every	        DT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	      B-A1	      B-A1	(S(NP*
+          sheet	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	      E-A1	      E-A1	*)
+         signed	       VBN	      S-VP	         O	         signed	         O	         O	         O	         O	         O	         O	         O	       S-V	         O	(VP(VP*)
+            and	        CC	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+         sealed	       VBN	      S-VP	         O	         sealed	         O	         O	         O	         O	         O	         O	         O	         O	       S-V	(VP*
+             by	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	         O	      B-A0	      B-A0	(PP*
+       Clarissa	       NNP	      B-NP	     B-PER	              -	         O	         O	         O	         O	         O	         O	         O	      I-A0	      I-A0	(NP(NP*
+        Harlowe	       NNP	      E-NP	     E-PER	              -	         O	         O	         O	         O	         O	         O	         O	      E-A0	      E-A0	*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+             in	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	(PP*
+            the	        DT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP(NP*
+       presence	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+             of	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	(PP*
+             Us	       NNP	      S-NP	     S-LOC	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP(NP*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+           John	       NNP	      B-NP	     B-PER	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+       Williams	       NNP	      E-NP	     E-PER	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+         Arthur	       NNP	      B-NP	     B-PER	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+         Bedall	       NNP	      E-NP	     E-PER	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+      Elizabeth	       NNP	      B-NP	     B-PER	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+        Swanton	       NNP	      E-NP	     E-PER	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*))))))))))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*))
+

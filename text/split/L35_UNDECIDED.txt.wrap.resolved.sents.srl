@@ -1,0 +1,27 @@
+           Here	        RB	    S-ADVP	         O	              -	  S-AM-LOC	(S1(S(ADVP*)
+            Mr.	       NNP	      B-NP	         O	              -	      B-A0	(NP*
+        Belford	       NNP	      E-NP	     S-PER	              -	      E-A0	*)
+          gives	       VBZ	      S-VP	         O	          gives	       S-V	(VP*
+            the	        DT	      B-NP	         O	              -	      B-A1	(NP(NP*
+      substance	        NN	      E-NP	         O	              -	      I-A1	*)
+             of	        IN	      S-PP	         O	              -	      I-A1	(PP*
+             it	       PRP	      S-NP	         O	              -	      E-A1	(NP*)))
+           upon	        IN	      S-PP	         O	              -	  B-AM-TMP	(PP*
+            Mr.	       NNP	      B-NP	     B-PER	              -	  I-AM-TMP	(NP*
+        Belford	       NNP	      I-NP	     E-PER	              -	  I-AM-TMP	*
+         memory	        NN	      E-NP	         O	              -	  E-AM-TMP	*)))
+              .	         .	         O	         O	              -	         O	*))
+
+              [	        RB	         O	         O	              -	         O	(S1(X*
+            See	        VB	      S-VP	         O	            See	       S-V	(S(VP*
+            the	        DT	      B-NP	         O	              -	      B-A1	(NP*
+           next	        JJ	      I-NP	         O	              -	      I-A1	*
+         letter	        NN	      E-NP	         O	              -	      E-A1	*)))
+              .	         .	         O	         O	              -	         O	*
+              ]	     -RRB-	         O	         O	              -	         O	*))
+
+            And	        CC	         O	         O	              -	  S-AM-DIS	(S1(S*
+           then	        RB	    S-ADVP	         O	              -	  S-AM-TMP	(ADVP*)
+           adds	       VBZ	      S-VP	         O	           adds	       S-V	(VP*)
+              :	         :	         O	         O	              -	         O	*))
+

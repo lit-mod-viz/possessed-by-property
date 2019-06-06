@@ -1,0 +1,112 @@
+              <	        FW	         O	         O	              -	         O	         O	(S1(S*
+              i	        FW	         O	         O	              -	         O	         O	(S(NP*)
+              >	        FW	         O	         O	              -	         O	         O	(VP*
+           Dear	       NNP	         O	         O	              -	         O	         O	(NP(NP*
+           Miss	       NNP	         O	         O	              -	         O	         O	*)
+              <	        FW	         O	         O	              -	         O	         O	*
+             /i	        FW	         O	         O	              -	         O	         O	*
+              >	        FW	         O	         O	              -	         O	         O	*
+           HOWE	       NNP	      S-NP	     S-PER	              -	         O	         O	(NP*))))
+              ,	         ,	         O	         O	              -	         O	         O	*
+             WE	       PRP	      S-NP	         O	              -	      S-A0	         O	(NP*)
+           join	       VBP	      S-VP	         O	           join	       S-V	         O	(VP*
+             in	        IN	      S-PP	         O	              -	      B-A1	         O	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A1	         O	(NP(NP*
+          above	        JJ	      I-NP	         O	              -	      I-A1	         O	*
+        request	        NN	      E-NP	         O	              -	      I-A1	         O	*)
+             of	        IN	      S-PP	         O	              -	      I-A1	         O	(PP*
+           Miss	       NNP	      B-NP	     B-PER	              -	      I-A1	      B-A1	(NP(NP*
+      Charlotte	       NNP	      I-NP	     E-PER	              -	      I-A1	      I-A1	*)
+            and	        CC	      I-NP	         O	              -	      I-A1	      I-A1	*
+           Miss	       NNP	      I-NP	     B-PER	              -	      I-A1	      I-A1	(NP*
+          Patty	       NNP	      I-NP	     I-PER	              -	      I-A1	      I-A1	*
+       Montague	       NNP	      E-NP	     E-PER	              -	      E-A1	      E-A1	*)))
+              ,	         ,	         O	         O	              -	         O	         O	*
+            for	        IN	      S-PP	         O	              -	  B-AM-PNC	         O	(PP*
+           your	      PRP$	      B-NP	         O	              -	  I-AM-PNC	         O	(NP*
+         favour	        NN	      I-NP	         O	              -	  I-AM-PNC	         O	*
+            and	        CC	      I-NP	         O	              -	  I-AM-PNC	         O	*
+       interest	        NN	      E-NP	         O	              -	  E-AM-PNC	         O	*)))))
+              ;	         :	         O	         O	              -	         O	         O	*
+          being	       VBG	      B-VP	         O	              -	         O	         O	*
+      convinced	       VBN	      E-VP	         O	      convinced	         O	       S-V	*
+              ,	         ,	         O	         O	              -	         O	         O	*
+           that	        IN	    S-SBAR	         O	              -	         O	         O	(SBAR*
+            the	        DT	      B-NP	         O	              -	         O	         O	(S(NP*
+       accident	        NN	      E-NP	         O	              -	         O	         O	*)
+            was	       VBD	      S-VP	         O	              -	         O	         O	(VP*
+             an	        DT	      B-NP	         O	              -	         O	         O	(NP*
+       accident	        NN	      E-NP	         O	              -	         O	         O	*))))
+              ;	         :	         O	         O	              -	         O	         O	*
+            and	        CC	         O	         O	              -	         O	         O	*
+             no	        DT	      B-NP	         O	              -	         O	         O	(NP(NP*
+           plot	        NN	      I-NP	         O	              -	         O	         O	*
+             or	        CC	      I-NP	         O	              -	         O	         O	*
+    contrivance	        NN	      E-NP	         O	              -	         O	         O	*)
+             of	        IN	      S-PP	         O	              -	         O	         O	(PP*
+              a	        DT	      B-NP	         O	              -	         O	         O	(NP*
+         wretch	        NN	      E-NP	         O	              -	         O	         O	*))
+            too	        RB	    B-ADJP	         O	              -	         O	         O	(ADJP*
+           full	        JJ	    E-ADJP	         O	              -	         O	         O	*
+             of	        IN	      S-PP	         O	              -	         O	         O	(PP*
+          them.	        NN	      S-NP	         O	              -	         O	         O	(NP*))))))
+
+             WE	       PRP	      S-NP	         O	              -	(S1(S(NP*)
+            are	       VBP	      S-VP	         O	              -	(VP*
+              ,	         ,	         O	         O	              -	*
+          Madam	       NNP	      S-NP	         O	              -	(NP(NP*)
+              ,	         ,	         O	         O	              -	*
+              <	        FW	         O	         O	              -	*
+              i	        FW	         O	         O	              -	(NP*)
+              >	        FW	         O	         O	              -	*
+           Your	      PRP$	      B-NP	         O	              -	(NP(NP*
+           most	       RBS	      I-NP	         O	              -	(ADJP*
+       obedient	        JJ	      I-NP	         O	              -	*)
+         humble	        JJ	      I-NP	         O	              -	*
+       Servants	       NNS	      E-NP	         O	              -	*)
+              ,	         ,	         O	         O	              -	(PRN*
+              <	        FW	         O	         O	              -	(FRAG(NP*
+             /i	        FW	         O	         O	              -	*
+              >	        FW	         O	         O	              -	*
+              <	        FW	         O	         O	              -	*
+             ul	        FW	         O	         O	              -	*
+              >	        FW	         O	         O	              -	*
+              <	        FW	         O	         O	              -	*
+             li	        FW	         O	         O	              -	*
+          class	        FW	         O	         O	              -	*
+              =	        FW	         O	         O	              -	*
+              "	        FW	         O	         O	              -	*
+           item	        FW	         O	         O	              -	*
+              "	        FW	         O	         O	              -	*
+              >	        FW	         O	         O	              -	*
+             M.	       NNP	         O	     S-PER	              -	*))))))))
+
+          SARAH	       NNP	      B-NP	     B-PER	              -	(S1(S(NP*
+        SADLEIR	       NNP	      E-NP	     E-PER	              -	*)
+              .	         .	         O	         O	              -	*
+              <	        FW	         O	         O	              -	(VP*
+              /	        FW	         O	         O	              -	*
+             li	        FW	         O	         O	              -	(FRAG(NP*
+              >	        FW	         O	         O	              -	*
+              <	        FW	         O	         O	              -	*
+             li	        FW	         O	         O	              -	*
+          class	        FW	         O	         O	              -	*
+              =	        FW	         O	         O	              -	*
+              "	        FW	         O	         O	              -	*
+           item	        FW	         O	         O	              -	*
+              "	        FW	         O	         O	              -	*
+              >	        FW	         O	         O	              -	*
+           ELIZ	       NNP	      S-NP	     S-PER	              -	*)))
+              .	         .	         O	         O	              -	*))
+
+       LAWRANCE	       NNP	      S-NP	     S-ORG	              -	(S1(NP*
+              .	         .	         O	         O	              -	*
+              <	        FW	         O	         O	              -	*
+              /	        FW	         O	         O	              -	*
+             li	        FW	         O	         O	              -	*
+              >	        FW	         O	         O	              -	*
+              <	        FW	         O	         O	              -	*
+              /	        FW	         O	         O	              -	*
+             ul	        FW	         O	         O	              -	*
+              >	        FW	         O	         O	              -	*))
+

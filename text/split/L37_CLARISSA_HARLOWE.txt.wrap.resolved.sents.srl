@@ -1,0 +1,58 @@
+           Mond	       NNP	      S-NP	     S-PER	              -	(S1(NP*
+              .	         .	         O	         O	              -	*))
+
+           near	        IN	      S-PP	         O	              -	(S1(FRAG(PP*
+             12	        CD	      B-NP	         O	              -	(NP*
+        o'Clock	       NNP	      E-NP	         O	              -	*))
+              .	         .	         O	         O	              -	*))
+
+            THE	        DT	      B-NP	         O	              -	      B-A1	(S1(S(NP*
+       inclosed	        JJ	      I-NP	         O	              -	      I-A1	*
+         Letter	        NN	      E-NP	         O	              -	      E-A1	*)
+             is	       VBZ	      B-VP	         O	              -	         O	(VP*
+           just	        RB	      I-VP	         O	              -	  B-AM-TMP	(ADVP*
+            now	        RB	      I-VP	         O	              -	  E-AM-TMP	*)
+      delivered	       VBN	      E-VP	         O	      delivered	       S-V	(VP*
+             to	        TO	      B-VP	         O	              -	         O	(PP*
+            me.	        VB	      E-VP	         O	              -	         O	(NP*))))))
+
+             My	      PRP$	      B-NP	         O	              -	      B-A0	(S1(S(NP*
+        brother	        NN	      E-NP	         O	              -	      E-A0	*)
+            has	       VBZ	      B-VP	         O	              -	         O	(VP*
+            now	        RB	      I-VP	         O	              -	  S-AM-TMP	(ADVP*)
+        carried	       VBN	      E-VP	         O	        carried	       S-V	(VP*
+            all	        DT	      B-NP	         O	              -	      B-A1	(NP*
+             My	      PRP$	      I-NP	         O	              -	      I-A1	*
+        brother	        NN	      I-NP	         O	              -	      I-A1	*
+         points	       NNS	      E-NP	         O	              -	      E-A1	*)))
+              .	         .	         O	         O	              -	         O	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	(S1(S(NP*)
+           send	       VBP	      S-VP	         O	           send	       S-V	(VP*
+            you	       PRP	      S-NP	         O	              -	      S-A1	(NP*)
+           also	        RB	    S-ADVP	         O	              -	      B-A2	(ADVP*)
+            the	        DT	      B-NP	         O	              -	      I-A2	(NP(NP*
+           copy	        NN	      E-NP	         O	              -	      I-A2	*)
+             of	        IN	      S-PP	         O	              -	      I-A2	(PP*
+             my	      PRP$	      B-NP	         O	              -	      I-A2	(NP*
+         answer	        NN	      E-NP	         O	              -	      E-A2	*))))
+              .	         .	         O	         O	              -	         O	*))
+
+             No	        DT	      B-NP	         O	              -	         O	(S1(FRAG(ADVP*
+           more	       RBR	      E-NP	         O	              -	         O	*)
+             at	        IN	      S-PP	         O	              -	         O	(PP*
+           this	        DT	      B-NP	         O	              -	         O	(NP(NP*
+           time	        NN	      E-NP	         O	              -	         O	*)
+            can	        MD	         O	         O	              -	  S-AM-MOD	(VP*
+              I	       PRP	      S-NP	         O	              -	      S-A0	(NP*)
+          write	        VB	      S-VP	         O	          write	       S-V	(VP*))))
+              .	         .	         O	         O	              -	         O	*))
+
+           This	        DT	      S-NP	         O	              -	(S1(S(NP*)
+             is	       VBZ	      S-VP	         O	              -	(VP*
+             My	      PRP$	      B-NP	         O	              -	(NP(NP*
+        brother	        NN	      E-NP	         O	              -	*
+             's	       POS	      B-NP	         O	              -	*)
+         answer	        NN	      E-NP	         O	              -	*))
+              .	         .	         O	         O	              -	*))
+

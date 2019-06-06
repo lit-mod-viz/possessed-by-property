@@ -1,0 +1,71 @@
+        Tuesday	       NNP	      S-NP	         O	              -	(S1(NP(NP*)
+              ,	         ,	         O	         O	              -	*
+          March	       NNP	      S-NP	         O	              -	(NP*)
+            14.	         .	         O	         O	              -	(NP*)))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	(S1(S(NP*)
+            Now	        RB	    S-ADVP	         O	              -	  S-AM-TMP	(ADVP*)
+           send	       VBP	      S-VP	         O	           send	       S-V	(VP*
+            you	       PRP	      S-NP	         O	              -	      S-A2	(S(NP*)
+         copies	       NNS	      S-NP	         O	              -	      B-A1	(VP(NP(NP*)
+             of	        IN	      S-PP	         O	              -	      I-A1	(PP*
+             my	      PRP$	      B-NP	         O	              -	      I-A1	(NP*
+        letters	       NNS	      E-NP	         O	              -	      E-A1	*)))
+             to	        TO	      S-PP	         O	              -	      B-A2	(PP*
+             my	      PRP$	      B-NP	         O	              -	      I-A2	(NP*
+         uncles	       NNS	      E-NP	         O	              -	      E-A2	*))
+              :	         :	         O	         O	              -	         O	*
+           With	        IN	      S-PP	         O	              -	         O	(SBAR*
+         copies	       NNS	      S-NP	         O	              -	         O	(S(NP(NP*)
+             of	        IN	      S-PP	         O	              -	         O	(PP*
+             my	      PRP$	      B-NP	         O	              -	         O	(NP*
+        letters	       NNS	      E-NP	         O	              -	         O	*)))
+        answers	       NNS	      S-NP	         O	              -	         O	(VP*))))))
+              .	         .	         O	         O	              -	         O	*))
+
+             Be	        VB	      B-VP	         O	              -	         O	         O	(S1(S(VP*
+        pleased	       VBN	      E-VP	         O	        pleased	       S-V	         O	(VP*
+             to	        TO	      B-VP	         O	              -	      B-A2	         O	(S(VP*
+         return	        VB	      E-VP	         O	         return	      I-A2	       S-V	(VP*
+            the	        DT	      B-NP	         O	              -	      I-A2	      B-A1	(NP*
+         latter	        JJ	      E-NP	         O	              -	      E-A2	      E-A1	*))))
+              ,	         ,	         O	         O	              -	         O	         O	*
+             by	        IN	      S-PP	         O	              -	      B-A0	         O	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A0	         O	(NP*
+          first	        JJ	      I-NP	         O	              -	      I-A0	         O	*
+       deposite	        NN	      E-NP	         O	              -	      E-A0	         O	*))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	         O	(S1(S(NP*)
+          leave	       VBP	      S-VP	         O	          leave	       S-V	         O	*
+         copies	       NNS	      S-NP	         O	              -	      B-A1	         O	(NP(NP*)
+             of	        IN	      S-PP	         O	              -	      I-A1	         O	(PP*
+             my	      PRP$	      B-NP	         O	              -	      I-A1	         O	(NP(NP*
+        letters	       NNS	      E-NP	         O	              -	      E-A1	         O	*)
+            for	        IN	      S-PP	         O	              -	  B-AM-PNC	         O	(PP*
+              <	        NN	      S-NP	         O	              -	  I-AM-PNC	         O	(NP*
+              i	       PRP	      S-NP	         O	              -	  I-AM-PNC	         O	*)))))
+              >	       VBP	      S-VP	         O	              -	  I-AM-PNC	         O	*
+            you	       PRP	      S-NP	         O	              -	  I-AM-PNC	      S-A0	(NP*)
+              ,	         ,	         O	         O	              -	  I-AM-PNC	         O	*
+              <	        FW	         O	         O	              -	  I-AM-PNC	         O	(NP*
+             /i	        FW	         O	         O	              -	  I-AM-PNC	         O	*
+              >	        FW	         O	         O	              -	  I-AM-PNC	         O	*)
+             to	        TO	      B-VP	         O	              -	  I-AM-PNC	         O	(S(VP*
+           make	        VB	      E-VP	         O	           make	  I-AM-PNC	       S-V	(VP*
+        remarks	       NNS	      S-NP	         O	              -	  I-AM-PNC	      S-A1	(S(NP*)
+           upon	        IN	      S-PP	         O	              -	  E-AM-PNC	         O	(PP*)))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+              <	        FW	         O	         O	              -	      B-A0	(S1(FRAG(SQ(NP(QP*
+              i	        FW	         O	         O	              -	      I-A0	*
+              >	        FW	         O	         O	              -	      I-A0	*
+              I	        FW	         O	         O	              -	      I-A0	*
+              <	        FW	         O	         O	              -	      I-A0	*
+             /i	        FW	         O	         O	              -	      I-A0	*
+              >	        FW	         O	         O	              -	      E-A0	*))
+          shall	        MD	      B-VP	         O	              -	  S-AM-MOD	*
+           make	        VB	      E-VP	         O	           make	       S-V	(VP*
+           none	        NN	      S-NP	         O	              -	      S-A1	(NP*)))
+              .	         .	         O	         O	              -	         O	*))
+

@@ -1,0 +1,605 @@
+             My	      PRP$	      B-NP	         O	              -	         O	         O	         O	(S1(S(NP*
+        dearest	        JJ	      I-NP	         O	              -	         O	         O	         O	*
+         Friend	        NN	      E-NP	         O	              -	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	*
+              I	       PRP	      S-NP	         O	              -	         O	      S-A0	         O	(S(NP*)
+             Am	       VBP	      S-VP	         O	              -	         O	         O	         O	(VP*
+             at	        IN	      S-PP	         O	              -	         O	         O	         O	(PP*
+         length	        NN	      S-NP	         O	              -	      S-A1	         O	         O	(NP*))
+       returned	       VBN	      S-VP	         O	       returned	       S-V	         O	         O	(VP*
+             to	        TO	      S-PP	         O	              -	      B-A4	         O	         O	(PP*
+           this	        DT	      B-NP	         O	              -	      I-A4	         O	         O	(NP*
+          place	        NN	      E-NP	         O	              -	      E-A4	         O	         O	*)))))
+              ;	         :	         O	         O	              -	         O	         O	         O	*
+            and	        CC	         O	         O	              -	         O	         O	         O	*
+            had	       VBD	      B-VP	         O	              -	         O	         O	         O	(VP*
+       intended	       VBN	      I-VP	         O	       intended	         O	       S-V	         O	(VP*
+             to	        TO	      I-VP	         O	              -	         O	      B-A1	         O	(S(VP*
+           wait	        VB	      E-VP	         O	           wait	         O	      I-A1	       S-V	(VP*
+             on	        IN	      S-PP	         O	              -	         O	      I-A1	      B-A2	(PP*
+            you	       PRP	      S-NP	         O	              -	         O	      I-A1	      E-A2	(NP*))
+             in	        IN	      S-PP	         O	              -	         O	      I-A1	  B-AM-LOC	(PP*
+         London	       NNP	      S-NP	     S-LOC	              -	         O	      E-A1	  E-AM-LOC	(NP*)))))))
+              :	         :	         O	         O	              -	         O	         O	         O	*
+            But	        CC	         O	         O	              -	         O	         O	         O	*
+             my	      PRP$	      B-NP	         O	              -	         O	         O	         O	(S(NP*
+          mamma	        NN	      E-NP	         O	              -	         O	         O	         O	*)
+             is	       VBZ	      S-VP	         O	              -	         O	         O	         O	(VP*
+           very	        RB	      B-NP	         O	              -	         O	         O	         O	(ADJP*
+            ill	        JJ	      I-NP	         O	              -	         O	         O	         O	*)))
+           Alas	       NNP	      E-NP	     S-PER	              -	         O	         O	         O	*
+              !	         .	         O	         O	              -	         O	         O	         O	*))
+
+             my	      PRP$	      B-NP	         O	              -	         O	         O	(S1(S(SBAR(NP*
+           dear	        JJ	      E-NP	         O	              -	         O	         O	*)
+              ,	         ,	         O	         O	              -	         O	         O	*
+             my	      PRP$	      B-NP	         O	              -	         O	         O	(S(S(NP*
+           dear	        JJ	      E-NP	         O	              -	         O	         O	*)
+             is	       VBZ	      S-VP	         O	              -	         O	         O	(VP*
+           very	        RB	    B-ADVP	         O	              -	         O	         O	(ADVP*
+            ill	        RB	    E-ADVP	         O	              -	         O	         O	*)
+         indeed	        RB	    S-ADVP	         O	              -	         O	         O	(ADVP*)))
+            And	        CC	         O	         O	              -	         O	         O	*
+            you	       PRP	      S-NP	         O	              -	         O	         O	(S(NP*)
+            are	       VBP	      S-VP	         O	              -	         O	         O	(VP*
+       likewise	        RB	    S-ADVP	         O	              -	  B-AM-MNR	         O	(ADVP*)
+           very	        RB	    B-ADJP	         O	              -	  I-AM-MNR	         O	(ADJP*
+            ill	        JJ	    E-ADJP	         O	              -	  E-AM-MNR	         O	*))
+              I	       PRP	      S-NP	         O	              -	      S-A0	         O	*
+            see	       VBP	      S-VP	         O	            see	       S-V	         O	(VP*
+              <	        NN	      S-NP	         O	              -	      B-A1	         O	(NP*
+              i	       PRP	      S-NP	         O	              -	      I-A1	         O	*
+              >	     -LRB-	         O	         O	              -	      I-A1	         O	*
+           that	        IN	         O	         O	              -	      I-A1	         O	*
+              <	        FW	         O	         O	              -	      I-A1	         O	*
+             /i	        FW	         O	         O	              -	      I-A1	         O	*
+              >	        FW	         O	         O	              -	      I-A1	         O	*)))))
+             by	        IN	      S-PP	         O	              -	      I-A1	         O	(PP*
+          yours	       NNS	      S-NP	         O	              -	      I-A1	         O	(NP(NP*)
+             of	        IN	      S-PP	         O	              -	      I-A1	         O	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A1	         O	(NP(NP*
+           25th	        JJ	      E-NP	         O	              -	      I-A1	         O	*)
+           What	        WP	      S-NP	         O	              -	      I-A1	         O	(SBAR(WHNP*)
+          shall	        MD	         O	         O	              -	      I-A1	         O	(S(VP*
+              I	       PRP	      S-NP	         O	              -	      I-A1	         O	(S(NP*)
+             do	       VBP	      S-VP	         O	              -	      I-A1	         O	(VP*)))))))))
+              ,	         ,	         O	         O	              -	      I-A1	         O	*
+             if	        IN	    S-SBAR	         O	              -	      I-A1	         O	*
+              I	       PRP	      S-NP	         O	              -	      I-A1	      S-A0	(NP*)
+           lose	       VBP	      S-VP	         O	           lose	      I-A1	       S-V	*
+            two	        CD	      S-NP	         O	              -	      I-A1	      B-A1	(NP*)
+           such	        JJ	      B-PP	         O	              -	      I-A1	      I-A1	*
+           near	        IN	      E-PP	         O	              -	      I-A1	      E-A1	*
+              ,	         ,	         O	         O	              -	      I-A1	         O	*
+            and	        CC	         O	         O	              -	      I-A1	         O	*
+             my	      PRP$	      B-NP	         O	              -	      I-A1	         O	(NP*
+           dear	        JJ	      E-NP	         O	              -	      I-A1	         O	*)
+              ,	         ,	         O	         O	              -	      I-A1	         O	*
+            and	        CC	         O	         O	              -	      I-A1	         O	*
+         tender	        NN	      B-NP	         O	              -	      I-A1	         O	(NP*
+        friends	       NNS	      E-NP	         O	              -	      E-A1	         O	*)
+              ?	         .	         O	         O	              -	         O	         O	*))
+
+             my	      PRP$	      B-NP	         O	              -	      B-A1	      B-A0	(S1(S(S(NP*
+           dear	        JJ	      E-NP	         O	              -	      E-A1	      E-A0	*)
+            was	       VBD	      B-VP	         O	              -	         O	         O	(VP(VP*
+          taken	       VBN	      E-VP	         O	          taken	       S-V	         O	(VP*
+            ill	        JJ	      B-NP	         O	              -	      S-A2	         O	(ADJP*)
+      yesterday	        NN	      E-NP	         O	              -	  S-AM-TMP	         O	(NP*)
+             at	        IN	      S-PP	         O	              -	  B-AM-TMP	         O	(PP*
+            our	      PRP$	      B-NP	         O	              -	  I-AM-TMP	         O	(NP*
+           last	        JJ	      I-NP	         O	              -	  I-AM-TMP	         O	*
+          stage	        NN	      E-NP	         O	              -	  E-AM-TMP	         O	*))
+             in	        IN	      S-PP	         O	              -	  B-AM-LOC	         O	(PP*
+            our	      PRP$	      B-NP	         O	              -	  I-AM-LOC	         O	(NP*
+         return	        NN	      E-NP	         O	              -	  I-AM-LOC	         O	*
+           home	        NN	    S-ADVP	         O	              -	  E-AM-LOC	         O	*))))
+            And	        CC	         O	         O	              -	         O	         O	*
+            has	       VBZ	      S-VP	         O	            has	         O	       S-V	(VP*
+              a	        DT	      B-NP	         O	              -	         O	      B-A1	(NP*
+        violent	        JJ	      I-NP	         O	              -	         O	      I-A1	*
+        surfeit	        NN	      I-NP	         O	              -	         O	      I-A1	*
+            and	        CC	      I-NP	         O	              -	         O	      I-A1	*
+          fever	        NN	      E-NP	         O	              -	         O	      E-A1	*))))
+              ,	         ,	         O	         O	              -	         O	         O	*
+            and	        CC	         O	         O	              -	         O	         O	*
+            the	        DT	      B-NP	         O	              -	         O	         O	(S(NP*
+        doctors	       NNS	      E-NP	         O	              -	         O	         O	*)
+            are	       VBP	      S-VP	         O	              -	         O	         O	(VP*
+       doubtful	        JJ	    S-ADJP	         O	              -	         O	         O	(ADJP*)
+          about	        IN	      S-PP	         O	              -	         O	         O	(PP*
+             my	      PRP$	      B-NP	         O	              -	         O	         O	(NP*
+           dear	        JJ	      E-NP	         O	              -	         O	         O	*))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+             If	        IN	    S-SBAR	         O	              -	         O	         O	  B-AM-ADV	         O	  B-AM-ADV	         O	(S1(S(SBAR*
+             my	      PRP$	      B-NP	         O	              -	      B-A1	         O	  I-AM-ADV	         O	  I-AM-ADV	         O	(S(NP*
+           dear	        NN	      E-NP	         O	              -	      E-A1	         O	  I-AM-ADV	         O	  I-AM-ADV	         O	*)
+         should	        MD	      B-VP	         O	              -	  S-AM-MOD	         O	  I-AM-ADV	         O	  I-AM-ADV	         O	(VP*
+            die	        VB	      E-VP	         O	            die	       S-V	         O	  I-AM-ADV	         O	  E-AM-ADV	         O	(VP*))))
+              ,	         ,	         O	         O	              -	         O	         O	  I-AM-ADV	         O	         O	         O	*
+            how	       WRB	    S-ADVP	         O	              -	         O	         O	  I-AM-ADV	         O	         O	         O	(SBAR(WHADVP*)
+           will	        MD	      S-VP	         O	              -	         O	         O	  I-AM-ADV	         O	         O	         O	(S(VP*
+            all	        DT	      B-NP	         O	              -	      B-A1	         O	  I-AM-ADV	         O	         O	         O	(NP*
+             my	      PRP$	      I-NP	         O	              -	      I-A1	         O	  I-AM-ADV	         O	         O	         O	*
+     pertnesses	       NNS	      E-NP	         O	              -	      I-A1	         O	  I-AM-ADV	         O	         O	         O	*)
+             to	        TO	      S-PP	         O	              -	      I-A1	         O	  I-AM-ADV	         O	         O	         O	(PP*
+             my	      PRP$	      B-NP	         O	              -	      I-A1	         O	  I-AM-ADV	         O	         O	         O	(NP(NP*
+           dear	        JJ	      I-NP	         O	              -	      I-A1	         O	  I-AM-ADV	         O	         O	         O	*
+            fly	        NN	      E-NP	         O	              -	      I-A1	         O	  I-AM-ADV	         O	         O	         O	*)
+             in	        IN	      S-PP	         O	              -	      I-A1	         O	  I-AM-ADV	         O	         O	         O	(PP*
+             my	      PRP$	      B-NP	         O	              -	      I-A1	         O	  I-AM-ADV	         O	         O	         O	(NP*
+           face	        NN	      E-NP	         O	              -	      I-A1	         O	  I-AM-ADV	         O	         O	         O	*)))))))
+              !	         .	         O	         O	              -	      I-A1	         O	  I-AM-ADV	         O	         O	         O	*
+            Why	       WRB	    S-ADVP	         O	              -	      I-A1	         O	  E-AM-ADV	         O	         O	         O	(WHADVP*)
+              ,	         ,	         O	         O	              -	      I-A1	         O	         O	         O	         O	         O	*
+            why	       WRB	    S-ADVP	         O	              -	      I-A1	         O	         O	  B-AM-ADV	         O	         O	(WHADVP*)
+              ,	         ,	         O	         O	              -	      I-A1	         O	         O	  I-AM-ADV	         O	         O	*
+            did	       VBD	         O	         O	              -	      I-A1	         O	         O	  I-AM-ADV	         O	         O	(SQ(VP*
+              I	       PRP	      S-NP	         O	              -	      I-A1	      S-A0	         O	  I-AM-ADV	         O	         O	(S(NP*)
+           ever	        RB	    S-ADVP	         O	              -	      I-A1	  S-AM-TMP	         O	  I-AM-ADV	         O	         O	(ADVP*)
+            vex	       VBP	      S-VP	         O	            vex	      I-A1	       S-V	         O	  I-AM-ADV	         O	         O	(VP*
+            her	       PRP	      S-NP	         O	              -	      I-A1	      S-A1	         O	  I-AM-ADV	         O	         O	(NP*))))
+              ?	         .	         O	         O	              -	      I-A1	         O	         O	  I-AM-ADV	         O	         O	*)
+            She	       PRP	      S-NP	         O	              -	      I-A1	         O	      S-A0	  I-AM-ADV	         O	         O	(S(NP*)
+           says	       VBZ	      S-VP	         O	           says	      I-A1	         O	       S-V	  I-AM-ADV	         O	         O	(VP*
+              I	       PRP	      S-NP	         O	              -	      I-A1	         O	      B-A1	  I-AM-ADV	      S-A0	         O	(SBAR(S(NP*)
+           have	       VBP	      B-VP	         O	              -	      I-A1	         O	      I-A1	  I-AM-ADV	         O	         O	(VP*
+           been	       VBN	      E-VP	         O	              -	      I-A1	         O	      I-A1	  I-AM-ADV	         O	         O	(VP*
+            all	        DT	      B-NP	         O	              -	      I-A1	         O	      I-A1	  I-AM-ADV	         O	         O	(NP*
+           duty	        NN	      I-NP	         O	              -	      I-A1	         O	      I-A1	  I-AM-ADV	         O	         O	*
+            and	        CC	      I-NP	         O	              -	      I-A1	         O	      I-A1	  I-AM-ADV	         O	         O	*
+      obedience	        NN	      E-NP	         O	              -	      I-A1	         O	      I-A1	  E-AM-ADV	         O	         O	*)))))))
+              !	         .	         O	         O	              -	      I-A1	         O	      I-A1	         O	         O	         O	*
+            She	       PRP	      S-NP	         O	              -	      I-A1	         O	      I-A1	      S-A0	      S-A0	         O	(NP*)
+         kindly	        RB	    S-ADVP	         O	              -	      I-A1	         O	      I-A1	  S-AM-MNR	         O	         O	(ADVP*)
+        forgets	       VBZ	      S-VP	         O	        forgets	      I-A1	         O	      I-A1	       S-V	         O	         O	(VP(VP*
+            all	        DT	      B-NP	         O	              -	      I-A1	         O	      I-A1	      B-A1	         O	         O	(NP*
+             my	      PRP$	      I-NP	         O	              -	      I-A1	         O	      I-A1	      I-A1	         O	         O	*
+         faults	       NNS	      E-NP	         O	              -	      E-A1	         O	      E-A1	      E-A1	         O	         O	*))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	*
+            and	        CC	         O	         O	              -	         O	         O	         O	         O	         O	         O	*
+      remembers	       VBZ	      S-VP	         O	      remembers	         O	         O	         O	         O	       S-V	         O	(VP*
+          every	        DT	      B-NP	         O	              -	         O	         O	         O	         O	      B-A1	         O	(NP(NP*
+              -	         :	      I-NP	         O	              -	         O	         O	         O	         O	      I-A1	         O	*
+          thing	        NN	      E-NP	         O	              -	         O	         O	         O	         O	      I-A1	         O	*)
+              I	       PRP	      S-NP	         O	              -	         O	         O	         O	         O	      I-A1	      S-A0	(SBAR(S(NP*)
+           have	       VBP	      B-VP	         O	              -	         O	         O	         O	         O	      I-A1	         O	(VP*
+           been	       VBN	      E-VP	         O	              -	         O	         O	         O	         O	      I-A1	         O	(VP*
+             so	        RB	    B-ADJP	         O	              -	         O	         O	         O	         O	      I-A1	         O	(ADJP*
+          happy	        JJ	    E-ADJP	         O	              -	         O	         O	         O	         O	      I-A1	         O	*)
+             as	        IN	    S-SBAR	         O	              -	         O	         O	         O	         O	      I-A1	         O	(SBAR*
+             to	        TO	      B-VP	         O	              -	         O	         O	         O	         O	      I-A1	         O	(S(VP*
+         oblige	        VB	      E-VP	         O	         oblige	         O	         O	         O	         O	      I-A1	       S-V	(VP*
+             my	      PRP$	      B-NP	         O	              -	         O	         O	         O	         O	      I-A1	      B-A1	(NP*
+           dear	        JJ	      E-NP	         O	              -	         O	         O	         O	         O	      I-A1	      I-A1	*
+            in.	         .	         O	         O	              -	         O	         O	         O	         O	      E-A1	      E-A1	*))))))))))))))
+
+            And	        CC	         O	         O	              -	         O	(S1(S*
+           this	        DT	      S-NP	         O	              -	      S-A0	(NP*)
+           cuts	       VBZ	      S-VP	         O	           cuts	       S-V	(VP*
+             me	       PRP	      S-NP	         O	              -	      S-A1	(NP*)
+             to	        TO	      S-PP	         O	              -	      B-A2	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A2	(NP*
+          heart	        NN	      E-NP	         O	              -	      E-A2	*)))
+              .	         .	         O	         O	              -	         O	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	      B-A1	         O	(S1(S(S(NP*)
+            see	       VBP	      S-VP	         O	            see	       S-V	      E-A1	         O	(VP*))
+              ,	         ,	         O	         O	              -	         O	         O	         O	(PRN*
+              I	       PRP	      S-NP	         O	              -	    B-C-A1	      S-A0	         O	(S(NP*)
+            see	       VBP	      S-VP	         O	            see	    I-C-A1	       S-V	         O	(VP*))
+              ,	         ,	         O	         O	              -	    I-C-A1	         O	         O	*)
+             my	      PRP$	      B-NP	         O	              -	    I-C-A1	    B-C-A1	         O	(NP*
+           dear	        JJ	      E-NP	         O	              -	    E-C-A1	    E-C-A1	         O	*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	*
+            you	       PRP	      S-NP	         O	              -	         O	         O	         O	(S(NP*)
+            are	       VBP	      S-VP	         O	              -	         O	         O	         O	(VP*
+           very	        RB	    B-ADJP	         O	              -	         O	         O	         O	(ADJP*
+            bad	        JJ	    E-ADJP	         O	              -	         O	         O	         O	*)))
+            And	        CC	         O	         O	              -	         O	         O	         O	*
+              I	       PRP	      S-NP	         O	              -	         O	         O	      S-A0	(S(NP*)
+         cannot	        MD	      B-VP	         O	              -	         O	         O	  S-AM-MOD	(VP*
+           bear	        VB	      E-VP	         O	           bear	         O	         O	       S-V	(VP*
+            it.	         .	    S-ADJP	         O	              -	         O	         O	      S-A1	(NP*))))))
+
+             Do	        VB	         O	         O	              -	         O	(S1(S(VP(VP*)
+              ,	         ,	         O	         O	              -	         O	*
+             my	      PRP$	      B-NP	         O	              -	      B-A0	(NP*
+        beloved	        JJ	      I-NP	         O	              -	      I-A0	*
+           Miss	       NNP	      I-NP	     B-PER	              -	      I-A0	*
+        Harlowe	       NNP	      E-NP	     E-PER	              -	      E-A0	*)
+              ,	         ,	         O	         O	              -	         O	*
+             if	        IN	    S-SBAR	         O	              -	         O	(SBAR*
+            you	       PRP	      S-NP	         O	              -	      S-A0	(S(NP*)
+              <	       VBP	      S-VP	         O	              -	         O	(VP*
+              i	       PRP	      S-NP	         O	              -	         O	(SBAR(S(NP*)
+              >	        FW	         O	         O	              -	         O	*
+            can	        FW	         O	         O	              -	         O	(VP*
+              <	        FW	         O	         O	              -	         O	(SBAR(S(NP*
+             /i	        FW	         O	         O	              -	         O	*
+              >	        FW	         O	         O	              -	         O	*)
+             be	        VB	      S-VP	         O	              -	         O	(VP*
+         better	       JJR	    S-ADJP	         O	              -	         O	(ADJP*))))
+              ,	         ,	         O	         O	              -	         O	*
+             do	       VBP	      S-VP	         O	              -	         O	*
+              ,	         ,	         O	         O	              -	         O	*
+            for	        IN	      S-PP	         O	              -	         O	(PP*
+              <	        FW	      S-NP	         O	              -	         O	(NP(NP(QP*
+              i	        FW	      S-NP	         O	              -	         O	*))
+              >	        FW	         O	         O	              -	         O	*
+             my	        FW	         O	         O	              -	         O	(NP*
+              <	        FW	         O	         O	              -	         O	*
+             /i	        FW	         O	         O	              -	         O	*
+              >	        FW	      B-NP	         O	              -	         O	*
+           sake	        NN	      E-NP	         O	              -	         O	*)))))))))
+              ,	         ,	         O	         O	              -	         O	*
+              <	        IN	    S-SBAR	         O	              -	         O	(SBAR*
+              i	       PRP	      S-NP	         O	              -	      S-A0	(S(NP*)
+              >	        MD	         O	         O	              -	         O	(VP*
+             be	        VB	         O	         O	              -	         O	(VP(VP*
+              <	        FW	         O	         O	              -	         O	*
+             /i	        FW	         O	         O	              -	         O	*
+              >	        FW	         O	         O	              -	         O	*
+         better	        FW	         O	         O	              -	         O	*)
+              ;	         :	         O	         O	              -	         O	*
+            and	        CC	         O	         O	              -	         O	*
+           send	        VB	      S-VP	         O	           send	       S-V	(VP*
+             me	       PRP	      S-NP	         O	              -	      S-A2	(NP*)
+           word	        NN	      S-NP	         O	              -	      B-A1	(NP(NP*)
+             of	        IN	      S-PP	         O	              -	      I-A1	(PP*
+            it.	       PRP	      S-NP	         O	              -	      E-A1	(NP*)))))))))))
+
+            Let	        VB	      S-VP	         O	            Let	       S-V	         O	(S1(S(VP*
+            the	        DT	      B-NP	         O	              -	      B-A1	      B-A0	(S(NP*
+         bearer	        NN	      E-NP	         O	              -	      I-A1	      E-A0	*)
+          bring	        VB	      S-VP	         O	          bring	      I-A1	       S-V	(VP*
+             me	       PRP	      S-NP	         O	              -	      I-A1	      S-A2	(NP*)
+              a	        DT	      B-NP	         O	              -	      I-A1	      B-A1	(NP*
+          line.	         .	      E-NP	         O	              -	      E-A1	      E-A1	*))))))
+
+             Be	        VB	      S-VP	         O	              -	         O	(S1(VP*
+           sure	        JJ	    S-ADJP	         O	              -	         O	(ADJP*)
+            you	       PRP	      S-NP	         O	              -	      S-A0	(SBAR(S(NP*)
+           send	       VBP	      S-VP	         O	           send	       S-V	(VP*
+             me	       PRP	      S-NP	         O	              -	      S-A2	(S(NP*)
+              a	        DT	      B-NP	         O	              -	      B-A1	(NP*
+          line.	         .	      E-NP	         O	              -	      E-A1	*)))))))
+
+             If	        IN	    S-SBAR	         O	              -	         O	         O	         O	         O	(S1(S(SBAR*
+              I	       PRP	      S-NP	         O	              -	      S-A0	         O	         O	         O	(S(NP*)
+           lose	       VBP	      S-VP	         O	           lose	       S-V	         O	         O	         O	(VP*
+            you	       PRP	      S-NP	         O	              -	      S-A1	         O	         O	         O	(NP*))))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	*
+             my	      PRP$	      B-NP	         O	              -	         O	         O	         O	         O	(NP(NP*
+           more	       JJR	      E-NP	         O	              -	         O	         O	         O	         O	*)
+           than	        IN	      S-PP	         O	              -	         O	         O	         O	         O	(PP*
+         sister	        NN	      S-NP	         O	              -	         O	         O	         O	         O	(NP*)))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	*
+            and	        CC	         O	         O	              -	         O	         O	         O	         O	*
+           lose	        VB	      S-VP	         O	           lose	         O	       S-V	         O	         O	(VP*
+             my	      PRP$	      B-NP	         O	              -	         O	      B-A1	         O	         O	(NP*
+          mamma	        NN	      E-NP	         O	              -	         O	      E-A1	         O	         O	*))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	*
+              I	       PRP	      S-NP	         O	              -	         O	         O	      S-A0	      S-A0	(S(NP*)
+          shall	        MD	      B-VP	         O	              -	         O	         O	  S-AM-MOD	  S-AM-MOD	(VP*
+       distrust	        VB	      E-VP	         O	       distrust	         O	         O	       S-V	         O	(VP(VP*
+             my	      PRP$	      B-NP	         O	              -	         O	         O	      B-A1	         O	(NP*
+            own	        JJ	      I-NP	         O	              -	         O	         O	      I-A1	         O	*
+        conduct	        NN	      E-NP	         O	              -	         O	         O	      E-A1	         O	*))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	*
+            and	        CC	         O	         O	              -	         O	         O	         O	         O	*
+           will	        MD	      B-VP	         O	              -	         O	         O	         O	  S-AM-MOD	(VP*
+            not	        RB	      I-VP	         O	              -	         O	         O	         O	  S-AM-NEG	*
+          marry	        VB	      E-VP	         O	          marry	         O	         O	         O	       S-V	(VP*)))))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	*))
+
+            And	        CC	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(S1(S*
+            why	       WRB	    S-ADVP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(WHADVP*)
+         should	        MD	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(VP*
+              I	       PRP	      S-NP	         O	              -	      S-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(VP(NP*)
+              ?	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(VP*
+       Creeping	       VBG	      S-VP	         O	       Creeping	       S-V	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(VP*
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+       cringing	       VBG	      S-VP	         O	       cringing	         O	       S-V	         O	         O	         O	         O	         O	         O	         O	         O	         O	(S(VP*
+             in	        IN	      S-PP	         O	              -	         O	  B-AM-MNR	         O	         O	         O	         O	         O	         O	         O	         O	         O	(PP*
+      courtship	        NN	      S-NP	         O	              -	         O	  E-AM-MNR	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*))))
+              :	         :	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              O	       NNP	      S-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(S(NP*
+             my	      PRP$	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+           dear	        JJ	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              I	       PRP	      S-NP	         O	              -	         O	         O	      S-A0	         O	         O	         O	         O	         O	         O	         O	         O	(NP*)
+           lose	       VBP	      S-VP	         O	           lose	         O	         O	       S-V	         O	         O	         O	         O	         O	         O	         O	         O	(VP*
+            you	       PRP	      S-NP	         O	              -	         O	         O	      S-A1	      S-A0	         O	         O	         O	         O	         O	         O	         O	(NP*)))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+             my	      PRP$	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP(NP*
+           more	       JJR	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+           than	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(PP*
+         sister	        NN	      S-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*)))))))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            and	        CC	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+           lose	        VB	      S-VP	         O	           lose	         O	         O	         O	       S-V	         O	         O	         O	         O	         O	         O	         O	(S(VP*
+             my	      PRP$	      B-NP	         O	              -	         O	         O	         O	      B-A1	         O	         O	         O	         O	         O	         O	         O	(NP*
+          mamma	        NN	      E-NP	         O	              -	         O	         O	         O	      E-A1	         O	         O	         O	         O	         O	         O	         O	*))
+            are	       VBP	      S-VP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(VP*
+              a	        DT	      B-NP	         O	              -	         O	         O	         O	  B-AM-TMP	         O	         O	         O	         O	         O	         O	         O	(NP*
+           vile	        JJ	      I-NP	         O	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	*
+           race	        NN	      E-NP	         O	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	*)
+             of	        IN	      S-PP	         O	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	(PP*
+              <	        FW	      S-NP	         O	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	(NP(NP(QP*
+              i	        FW	      S-NP	         O	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	*
+              >	        FW	         O	         O	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	*
+        Reptils	        FW	         O	     S-PER	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	*
+              <	        FW	         O	         O	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	*
+             /i	        FW	         O	         O	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	*
+              >	        FW	         O	         O	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	*
+             in	        FW	         O	         O	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	*
+              <	        FW	         O	         O	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	*
+              i	        FW	         O	         O	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	*))
+              >	        FW	         O	         O	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	*
+            our	      PRP$	      B-NP	         O	              -	         O	         O	         O	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	(NP*
+            day	        NN	      E-NP	         O	              -	         O	         O	         O	  E-AM-TMP	         O	         O	         O	         O	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              <	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP(QP*
+             /i	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              >	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            and	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+           mere	        FW	    S-ADJP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              <	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              i	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              >	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+          Bears	        FW	         O	     S-PER	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              <	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+             /i	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              >	        FW	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+             in	        FW	    S-ADVP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              <	        FW	      S-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              i	       PRP	      S-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*))))
+              >	        MD	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              I	       PRP	      S-NP	         O	              -	         O	         O	         O	         O	      S-A0	         O	         O	         O	         O	         O	         O	(S(NP*)
+           lose	       VBP	      S-VP	         O	           lose	         O	         O	         O	         O	       S-V	         O	         O	         O	         O	         O	         O	(VP*
+            you	       PRP	      S-NP	         O	              -	         O	         O	         O	         O	      S-A1	      S-A0	         O	         O	         O	         O	         O	(NP*)))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+             my	      PRP$	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP(NP*
+           more	       JJR	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+           than	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(PP*
+         sister	        NN	      S-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*)))))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            and	        CC	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+           lose	        VB	      S-VP	         O	           lose	         O	         O	         O	         O	         O	       S-V	         O	         O	         O	         O	         O	(VP*
+             my	      PRP$	      B-NP	         O	              -	         O	         O	         O	         O	         O	      B-A1	      B-A0	         O	         O	         O	         O	(S(NP*
+          mamma	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	      I-A1	      E-A0	         O	         O	         O	         O	*)
+            own	        VB	      S-VP	         O	            own	         O	         O	         O	         O	         O	      I-A1	       S-V	         O	         O	         O	         O	(VP*)))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	*
+              <	        FW	         O	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	(S(VP*
+             /i	        FW	         O	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	*
+              >	        FW	         O	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	*
+            See	       NNP	      S-NP	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	(VP*
+             in	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	(PP*
+       Lovelace	       NNP	      S-NP	     S-PER	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	(NP*
+            all	        DT	         O	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	*))
+           that	       WDT	      S-NP	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	(SBAR(WHNP*)
+            was	       VBD	      S-VP	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	(S(VP*
+      desirable	        JJ	    S-ADJP	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	(ADJP*)
+             in	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	(PP*
+         figure	        NN	      S-NP	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	(NP*))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	*
+             in	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	(PP*
+          birth	        NN	      S-NP	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	(NP*))))))))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	*
+            and	        CC	         O	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	*
+             in	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	      I-A1	         O	         O	         O	         O	         O	(PP*
+        fortune	        NN	      S-NP	         O	              -	         O	         O	         O	         O	         O	      E-A1	         O	         O	         O	         O	         O	(NP*))
+              :	         :	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            But	        CC	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	  B-AM-ADV	         O	         O	*
+             in	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	  I-AM-ADV	         O	         O	(VP(PP*
+            his	      PRP$	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	  I-AM-ADV	         O	         O	(NP*
+          heart	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	  I-AM-ADV	         O	         O	*))
+              a	        DT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	  I-AM-ADV	         O	         O	(NP*
+          devil	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	  I-AM-ADV	         O	         O	*)
+              !	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	  I-AM-ADV	         O	         O	*
+            See	        VB	      S-VP	         O	            See	         O	         O	         O	         O	         O	         O	         O	       S-V	  I-AM-ADV	         O	         O	*
+             in	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	         O	  B-AM-LOC	  I-AM-ADV	         O	         O	(PP*
+        Hickman	       NNP	      S-NP	     S-PER	              -	         O	         O	         O	         O	         O	         O	         O	  E-AM-LOC	  I-AM-ADV	         O	         O	(NP*))
+         Indeed	        RB	    S-ADVP	         O	              -	         O	         O	         O	         O	         O	         O	         O	  S-AM-TMP	  I-AM-ADV	         O	         O	(ADVP*))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	  I-AM-ADV	         O	         O	*
+             my	      PRP$	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	  I-AM-ADV	         O	         O	(NP*
+           dear	        JJ	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	  E-AM-ADV	         O	         O	*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              I	       PRP	      S-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      S-A0	         O	      S-A0	(NP*)
+         cannot	        MD	      B-VP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	  S-AM-MOD	         O	         O	*
+           tell	        VB	      E-VP	         O	           tell	         O	         O	         O	         O	         O	         O	         O	         O	       S-V	         O	         O	*
+           what	        WP	      S-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      B-A1	    B-R-A0	         O	(WHNP*
+            any	        DT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	    I-R-A0	         O	*
+              -	         :	      I-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	    I-R-A0	         O	*
+           body	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	    E-R-A0	         O	*)
+            can	        MD	      B-VP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	  S-AM-MOD	         O	(S(VP*
+            see	        VB	      E-VP	         O	            see	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	       S-V	         O	(VP*
+             in	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	  B-AM-LOC	         O	(PP*
+        Hickman	       NNP	      S-NP	     S-PER	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	  E-AM-LOC	         O	(NP*))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	         O	         O	*
+             to	        TO	      B-VP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	         O	         O	(S(VP*
+             be	        VB	      I-VP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	         O	         O	(VP*
+         always	        RB	      I-VP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	         O	  S-AM-TMP	(ADVP*)
+      preaching	       VBG	      E-VP	         O	      preaching	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	         O	       S-V	(VP*
+             in	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	         O	  B-AM-LOC	(PP*
+        Hickman	       NNP	      B-NP	     S-PER	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	         O	  I-AM-LOC	(NP*
+         favour	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      E-A1	         O	  E-AM-LOC	*)))))))))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*))
+
+            And	        CC	         O	         O	              -	         O	         O	         O	         O	(S1(SQ*
+             is	       VBZ	      S-VP	         O	              -	         O	         O	         O	         O	*
+             it	       PRP	      S-NP	         O	              -	      S-A1	         O	         O	         O	(S(NP*)
+             to	        TO	      B-VP	         O	              -	         O	         O	         O	         O	(VP*
+             be	        VB	      I-VP	         O	              -	         O	         O	         O	         O	(VP*
+       expected	       VBN	      E-VP	         O	       expected	       S-V	         O	         O	         O	(VP*))))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	*
+           that	        IN	    S-SBAR	         O	              -	         O	         O	         O	         O	(SBAR*
+              I	       PRP	      S-NP	         O	              -	         O	      S-A0	      B-A0	         O	(S(NP*)
+              ,	         ,	         O	         O	              -	         O	         O	      I-A0	         O	*
+            who	        WP	      S-NP	         O	              -	         O	    S-R-A0	      I-A0	         O	(SBAR(WHNP*)
+          could	        MD	      B-VP	         O	              -	         O	  S-AM-MOD	      I-A0	         O	(S(VP*
+         hardly	        RB	      I-VP	         O	              -	         O	  S-AM-ADV	      I-A0	         O	(ADVP*)
+           bear	        VB	      E-VP	         O	           bear	         O	       S-V	      I-A0	         O	(VP*
+       controul	        JJ	      S-NP	         O	              -	         O	      S-A1	      I-A0	         O	(ADJP*
+           from	        IN	      S-PP	         O	              -	         O	         O	      I-A0	         O	(PP*
+              a	        DT	      B-NP	         O	              -	         O	         O	      I-A0	         O	(NP*
+         mother	        NN	      E-NP	         O	              -	         O	         O	      I-A0	         O	*)))))))
+              ,	         ,	         O	         O	              -	         O	         O	      E-A0	         O	*
+         should	        MD	      B-VP	         O	              -	         O	         O	  S-AM-MOD	         O	(VP*
+           take	        VB	      E-VP	         O	           take	         O	         O	       S-V	         O	(VP*
+             it	       PRP	      S-NP	         O	              -	         O	         O	      S-A1	         O	(NP*)
+           from	        IN	      S-PP	         O	              -	         O	         O	      B-A2	         O	(PP*
+              a	        DT	      B-NP	         O	              -	         O	         O	      I-A2	         O	(NP*
+        husband	        NN	      E-NP	         O	              -	         O	         O	      I-A2	         O	*)))))
+              ?	         .	         O	         O	              -	         O	         O	      I-A2	         O	*
+           From	        IN	      S-PP	         O	              -	         O	         O	      I-A2	         O	(PP*
+            one	        CD	      S-NP	         O	              -	         O	         O	      I-A2	         O	(NP*))
+            too	        RB	    S-ADVP	         O	              -	         O	         O	      I-A2	         O	(ADVP*
+              ,	         ,	         O	         O	              -	         O	         O	      I-A2	         O	*
+            who	        WP	      S-NP	         O	              -	         O	         O	      I-A2	    S-R-A0	(SBAR(WHNP*)
+            has	       VBZ	      S-VP	         O	            has	         O	         O	      I-A2	       S-V	(S(VP*
+        neither	        DT	      B-NP	         O	              -	         O	         O	      I-A2	      B-A1	(NP(NP(ADJP*
+           more	       JJR	      I-NP	         O	              -	         O	         O	      I-A2	      I-A1	*)
+            wit	        NN	      E-NP	         O	              -	         O	         O	      I-A2	      I-A1	*)
+              ,	         ,	         O	         O	              -	         O	         O	      I-A2	      I-A1	*
+            nor	        CC	         O	         O	              -	         O	         O	      I-A2	      I-A1	*
+           more	       JJR	      B-NP	         O	              -	         O	         O	      I-A2	      I-A1	(NP*
+  understanding	        NN	      E-NP	         O	              -	         O	         O	      I-A2	      I-A1	*)
+              ,	         ,	         O	         O	              -	         O	         O	      I-A2	      I-A1	*
+           than	        IN	      S-PP	         O	              -	         O	         O	      I-A2	      I-A1	(PP*
+         myself	       PRP	      S-NP	         O	              -	         O	         O	      E-A2	      E-A1	(NP*))))))))
+              ?	         .	         O	         O	              -	         O	         O	         O	         O	*))
+
+            Yet	        CC	         O	         O	              -	      B-A1	(S1(S*
+             He	       PRP	      S-NP	         O	              -	      I-A1	(S(NP*)
+             to	        TO	      B-VP	         O	              -	      I-A1	(VP*
+             be	        VB	      E-VP	         O	              -	      I-A1	(VP*
+             my	      PRP$	      B-NP	         O	              -	      I-A1	(NP*
+     instructor	        NN	      E-NP	         O	              -	      I-A1	*))))
+              !	         .	         O	         O	              -	      I-A1	*
+             So	        IN	         O	         O	              -	      I-A1	(SBAR*
+             He	       PRP	      S-NP	         O	              -	      I-A1	(S(NP*)
+           will	        MD	      S-VP	         O	              -	      E-A1	(VP*)))
+              ,	         ,	         O	         O	              -	         O	*
+              I	       PRP	      S-NP	         O	              -	      S-A0	(S(NP*)
+        suppose	       VBP	      S-VP	         O	        suppose	       S-V	(VP*))
+              ;	         :	         O	         O	              -	         O	*
+            but	        CC	         O	         O	              -	         O	*
+           more	       JJR	      S-NP	         O	              -	         O	(S(NP(NP*)
+             by	        IN	      S-PP	         O	              -	         O	(PP*
+            the	        DT	      B-NP	         O	              -	         O	(NP(NP*
+      insolence	        NN	      E-NP	         O	              -	         O	*)
+             of	        IN	      S-PP	         O	              -	         O	(PP*
+             He	       PRP	      S-NP	         O	              -	         O	(NP*)))))
+           will	        MD	      S-VP	         O	              -	         O	(VP*
+              ,	         ,	         O	         O	              -	         O	*
+           than	        IN	      S-PP	         O	              -	         O	(PP*
+             by	        IN	      S-PP	         O	              -	         O	(PP*
+            the	        DT	      B-NP	         O	              -	         O	(NP(NP*
+          merit	        NN	      E-NP	         O	              -	         O	*)
+             of	        IN	      S-PP	         O	              -	         O	(PP*
+             He	       NNP	      B-NP	         O	              -	         O	(NP*
+        counsel	        NN	      E-NP	         O	              -	         O	*)))))))
+              .	         .	         O	         O	              -	         O	*))
+
+             It	       PRP	      S-NP	         O	              -	         O	         O	         O	         O	         O	         O	(S1(S(NP*)
+             is	       VBZ	      S-VP	         O	              -	         O	         O	         O	         O	         O	         O	(VP*
+             in	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	(PP*
+           vain	        JJ	    S-ADJP	         O	              -	         O	         O	         O	         O	         O	         O	(NP*))
+             to	        TO	      B-VP	         O	              -	         O	         O	         O	         O	         O	         O	(S(VP*
+          think	        VB	      E-VP	         O	          think	       S-V	         O	         O	         O	         O	         O	(VP*
+             of	        IN	      S-PP	         O	              -	      B-A2	         O	         O	         O	         O	         O	(PP*
+             it	       PRP	      S-NP	         O	              -	      I-A2	         O	         O	         O	         O	         O	(NP*))
+              I	       PRP	      S-NP	         O	              -	      I-A2	         O	         O	         O	         O	         O	(SBAR(S(NP*)
+         cannot	        MD	      B-VP	         O	              -	      I-A2	         O	         O	         O	         O	         O	(VP*
+             be	        VB	      E-VP	         O	              -	      I-A2	         O	         O	         O	         O	         O	(VP*
+              a	        DT	      B-NP	         O	              -	      I-A2	         O	         O	         O	         O	         O	(NP(NP*
+           wife	        NN	      E-NP	         O	              -	      I-A2	         O	         O	         O	         O	         O	*)
+             to	        TO	      S-PP	         O	              -	      I-A2	         O	         O	         O	         O	         O	(PP*
+            any	        DT	      B-NP	         O	              -	      I-A2	      B-A0	         O	         O	         O	         O	(NP(NP*
+            man	        NN	      E-NP	         O	              -	      I-A2	      E-A0	         O	         O	         O	         O	*)
+      breathing	       VBG	      S-VP	         O	      breathing	      I-A2	       S-V	         O	         O	         O	         O	(VP*
+           whom	        WP	      S-NP	         O	              -	      I-A2	      B-A1	         O	         O	         O	         O	(SBAR(WHNP*)
+              I	       PRP	      S-NP	         O	              -	      I-A2	      I-A1	         O	         O	         O	         O	(S(NP*)
+             at	        IN	      S-PP	         O	              -	      I-A2	      I-A1	         O	         O	         O	         O	(PP*
+        present	        JJ	      B-NP	         O	              -	      I-A2	      I-A1	         O	         O	         O	         O	(NP*
+           know	        NN	      E-NP	         O	              -	      E-A2	      E-A1	         O	         O	         O	         O	*)))))))))))))))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	*
+           This	        DT	         O	         O	              -	         O	  B-AM-DIS	         O	         O	         O	         O	(NP*
+              I	       PRP	         O	         O	              -	         O	  I-AM-DIS	         O	         O	         O	         O	*)
+            the	        DT	         O	         O	              -	         O	  I-AM-DIS	         O	         O	         O	         O	(SBAR(S(NP*
+         rather	        RB	         O	         O	              -	         O	  I-AM-DIS	         O	         O	         O	         O	*
+        mention	        NN	      S-NP	         O	              -	         O	  I-AM-DIS	         O	         O	         O	         O	*)
+            now	        RB	    S-ADVP	         O	              -	         O	  I-AM-DIS	         O	         O	         O	         O	(ADVP*)
+              ,	         ,	         O	         O	              -	         O	  I-AM-DIS	         O	         O	         O	         O	*
+        because	        RB	    S-ADVP	         O	              -	         O	  I-AM-DIS	         O	         O	         O	         O	(PP*
+              ,	         ,	         O	         O	              -	         O	  I-AM-DIS	         O	         O	         O	         O	*
+             on	        IN	      S-PP	         O	              -	         O	  I-AM-DIS	  B-AM-ADV	         O	         O	         O	(PP*
+             my	      PRP$	      B-NP	         O	              -	         O	  I-AM-DIS	  I-AM-ADV	         O	         O	         O	(NP(NP*
+         mother	        NN	      E-NP	         O	              -	         O	  I-AM-DIS	  I-AM-ADV	         O	         O	         O	*
+             's	       POS	      B-NP	         O	              -	         O	  I-AM-DIS	  I-AM-ADV	         O	         O	         O	*)
+         danger	        NN	      E-NP	         O	              -	         O	  E-AM-DIS	  E-AM-ADV	         O	         O	         O	*)))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	*
+              I	       PRP	      S-NP	         O	              -	         O	         O	      S-A0	         O	         O	         O	(NP*)
+           know	       VBP	      S-VP	         O	           know	         O	         O	       S-V	         O	         O	         O	(VP*
+            you	       PRP	      S-NP	         O	              -	         O	         O	      B-A1	      S-A0	         O	         O	(SBAR(S(NP*)
+           will	        MD	      B-VP	         O	              -	         O	         O	      I-A1	         O	         O	         O	(VP*
+             be	        VB	      E-VP	         O	              -	         O	         O	      I-A1	         O	         O	         O	(VP*
+            for	        IN	      S-PP	         O	              -	         O	         O	      I-A1	         O	         O	         O	(PP*
+       pressing	       VBG	      S-VP	         O	       pressing	         O	         O	      I-A1	       S-V	         O	         O	(S(VP*
+             me	       PRP	      S-NP	         O	              -	         O	         O	      I-A1	      S-A1	         O	         O	(NP*)
+            the	        DT	      B-NP	         O	              -	         O	         O	      I-A1	  B-AM-TMP	         O	         O	(NP*
+         sooner	       JJR	      E-NP	         O	              -	         O	         O	      I-A1	  E-AM-TMP	         O	         O	*)
+             to	        TO	      B-VP	         O	              -	         O	         O	      I-A1	  B-AM-PNC	         O	         O	(S(VP*
+          throw	        VB	      E-VP	         O	          throw	         O	         O	      I-A1	  I-AM-PNC	       S-V	         O	(VP*
+         myself	       PRP	      S-NP	         O	              -	         O	         O	      I-A1	  I-AM-PNC	      S-A1	         O	(NP*)
+           into	        IN	      S-PP	         O	              -	         O	         O	      I-A1	  I-AM-PNC	      B-A2	         O	(PP*
+        another	        DT	      B-NP	         O	              -	         O	         O	      I-A1	  I-AM-PNC	      I-A2	         O	(NP(NP*
+           sort	        NN	      E-NP	         O	              -	         O	         O	      I-A1	  I-AM-PNC	      I-A2	         O	*)
+             of	        IN	      S-PP	         O	              -	         O	         O	      I-A1	  I-AM-PNC	      I-A2	         O	(PP*
+     protection	        NN	      S-NP	         O	              -	         O	         O	      I-A1	  E-AM-PNC	      E-A2	         O	(NP*))))))))))
+              ,	         ,	         O	         O	              -	         O	         O	      I-A1	         O	         O	         O	*
+         should	        MD	         O	         O	              -	         O	         O	      I-A1	         O	         O	  S-AM-MOD	(SBAR(SINV*
+              I	       PRP	      S-NP	         O	              -	         O	         O	      I-A1	         O	         O	      S-A2	(NP*)
+             be	        VB	      B-VP	         O	              -	         O	         O	      I-A1	         O	         O	         O	(VP*
+       deprived	       VBN	      E-VP	         O	       deprived	         O	         O	      I-A1	         O	         O	       S-V	(VP*
+             of	        IN	      S-PP	         O	              -	         O	         O	      I-A1	         O	         O	      B-A2	(PP*
+             my	      PRP$	      B-NP	         O	              -	         O	         O	      I-A1	         O	         O	      I-A2	(NP*
+         mother	        NN	      E-NP	         O	              -	         O	         O	      E-A1	         O	         O	      E-A2	*))))))))))))))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	*))
+
+            But	        CC	         O	         O	              -	         O	         O	         O	(S1(X*
+             no	        DT	      B-NP	         O	              -	         O	         O	         O	(NP(NP(NP(NP*
+           more	       JJR	      E-NP	         O	              -	         O	         O	         O	*)
+             of	        IN	      S-PP	         O	              -	         O	         O	         O	(PP*
+           this	        DT	      B-NP	         O	              -	         O	         O	         O	(NP*
+        subject	        NN	      E-NP	         O	              -	         O	         O	         O	*)))
+              ,	         ,	         O	         O	              -	         O	         O	         O	*
+             or	        CC	         O	         O	              -	         O	         O	         O	*
+         indeed	        RB	    S-ADVP	         O	              -	         O	         O	         O	(ADJP*
+             of	        IN	      S-PP	         O	              -	         O	         O	         O	(PP*
+            any	        DT	      B-NP	         O	              -	         O	         O	         O	(NP*
+          other	        JJ	      E-NP	         O	              -	         O	         O	         O	*))))
+              ;	         :	         O	         O	              -	         O	         O	         O	*
+            for	        IN	    S-SBAR	         O	              -	         O	         O	         O	(SBAR*
+              I	       PRP	      S-NP	         O	              -	      S-A1	      S-A0	         O	(S(NP*)
+             am	       VBP	      B-VP	         O	              -	         O	         O	         O	(VP*
+        obliged	       VBN	      I-VP	         O	        obliged	       S-V	         O	         O	(ADJP*
+             to	        TO	      I-VP	         O	              -	      B-A2	         O	         O	(S(VP*
+         attend	        VB	      E-VP	         O	         attend	      I-A2	       S-V	         O	(VP*
+             my	      PRP$	      B-NP	         O	              -	      I-A2	      B-A1	      B-A0	(NP(NP*
+          mamma	        NN	      E-NP	         O	              -	      I-A2	      I-A1	      E-A0	*)
+              ,	         ,	         O	         O	              -	      I-A2	      I-A1	         O	*
+            who	        WP	      S-NP	         O	              -	      I-A2	      I-A1	    S-R-A0	(SBAR(WHNP*)
+         cannot	        MD	      B-VP	         O	              -	      I-A2	      I-A1	         O	(S(VP*
+           bear	        VB	      E-VP	         O	           bear	      I-A2	      I-A1	       S-V	*
+             me	       PRP	      S-NP	         O	              -	      I-A2	      I-A1	      S-A1	(NP*)
+            out	        IN	      S-PP	         O	              -	      I-A2	      I-A1	  B-AM-DIR	(PP*
+             of	        IN	      S-PP	         O	              -	      I-A2	      I-A1	  I-AM-DIR	(PP*
+             my	      PRP$	      B-NP	         O	              -	      I-A2	      I-A1	  I-AM-DIR	(NP*
+         mother	        NN	      I-NP	         O	              -	      I-A2	      I-A1	  I-AM-DIR	*
+          sight	        NN	      E-NP	         O	              -	      E-A2	      E-A1	  E-AM-DIR	*))))))))))))))
+              .	         .	         O	         O	              -	         O	         O	         O	*)))
+

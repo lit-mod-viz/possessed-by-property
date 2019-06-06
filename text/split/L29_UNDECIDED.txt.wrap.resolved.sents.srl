@@ -1,0 +1,23 @@
+            Mr.	       NNP	      B-NP	         O	              -	      B-A0	         O	(S1(S(NP*
+        Belford	       NNP	      E-NP	     S-PER	              -	      E-A0	         O	*)
+           then	        RB	    S-ADVP	         O	              -	  S-AM-TMP	         O	(ADVP*)
+          gives	       VBZ	      S-VP	         O	          gives	       S-V	         O	(VP*
+             an	        DT	      B-NP	         O	              -	      B-A1	         O	(NP(NP*
+        account	        NN	      E-NP	         O	              -	      I-A1	         O	*)
+             of	        IN	      S-PP	         O	              -	      I-A1	         O	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A1	         O	(NP(NP(NP*
+       wretched	        JJ	      I-NP	         O	              -	      I-A1	         O	*
+       Sinclair	       NNP	      E-NP	     S-PER	              -	      I-A1	         O	*
+             's	       POS	      B-NP	         O	              -	      I-A1	         O	*)
+       terrible	        JJ	      I-NP	         O	              -	      I-A1	         O	*
+           exit	        NN	      E-NP	         O	              -	      I-A1	         O	*)
+              ,	         ,	         O	         O	              -	      I-A1	         O	*
+          which	       WDT	      S-NP	         O	              -	      I-A1	    S-R-A1	(SBAR(WHNP*)
+            Mr.	       NNP	      B-NP	         O	              -	      I-A1	      B-A0	(S(NP*
+        Belford	       NNP	      E-NP	     S-PER	              -	      I-A1	      E-A0	*)
+            had	       VBD	      B-VP	         O	              -	      I-A1	         O	(VP*
+           just	        RB	      I-VP	         O	              -	      I-A1	  B-AM-TMP	(ADVP*)
+           then	        RB	      I-VP	         O	              -	      I-A1	  E-AM-TMP	(ADVP*)
+       received	       VBD	      E-VP	         O	       received	      E-A1	       S-V	(VP*))))))))
+              .	         .	         O	         O	              -	         O	         O	*))
+

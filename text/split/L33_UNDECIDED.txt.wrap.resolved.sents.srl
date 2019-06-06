@@ -1,0 +1,49 @@
+            Mr.	       NNP	      B-NP	     B-PER	              -	      B-A0	         O	(S1(S(NP*
+       Lovelace	       NNP	      E-NP	     E-PER	              -	      E-A0	         O	*)
+              ,	         ,	         O	         O	              -	         O	         O	*
+             in	        IN	      S-PP	         O	              -	  B-AM-LOC	         O	(PP*
+            Mr.	       NNP	      B-NP	         O	              -	  I-AM-LOC	         O	(NP*
+       Lovelace	       NNP	      E-NP	     S-PER	              -	  I-AM-LOC	         O	*))
+           next	        JJ	      B-NP	         O	              -	  I-AM-LOC	         O	(NP*
+         letter	        NN	      E-NP	         O	              -	  I-AM-LOC	         O	*)
+             to	        TO	      S-PP	         O	              -	  I-AM-LOC	         O	(PP*
+            Mr.	       NNP	      B-NP	     B-PER	              -	  I-AM-LOC	         O	(NP*
+       Lovelace	       NNP	      E-NP	     E-PER	              -	  I-AM-LOC	         O	*
+         friend	        NN	      S-VP	         O	              -	  I-AM-LOC	         O	*))
+            Mr.	       NNP	      B-NP	     B-PER	              -	  I-AM-LOC	         O	(NP*
+        Belford	       NNP	      E-NP	     E-PER	              -	  E-AM-LOC	         O	*)
+              ,	         ,	         O	         O	              -	         O	         O	*
+        recites	       VBZ	      S-VP	         O	        recites	       S-V	         O	(VP*
+            the	        DT	      B-NP	         O	              -	      B-A1	         O	(NP(NP*
+           most	       RBS	      I-NP	         O	              -	      I-A1	         O	(ADJP*
+       material	        JJ	      I-NP	         O	              -	      I-A1	         O	*)
+       passages	       NNS	      E-NP	         O	              -	      I-A1	         O	*)
+             in	        IN	      S-PP	         O	              -	      I-A1	         O	(PP*
+           hers	       NNS	      S-NP	         O	              -	      I-A1	         O	(NP(NP*)
+      preceding	       VBG	      S-VP	         O	      preceding	      E-A1	       S-V	(VP*)))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+            Mr.	       NNP	      B-NP	         O	              -	      B-A0	(S1(S(NP*
+       Lovelace	       NNP	      E-NP	     S-PER	              -	      E-A0	*)
+        invites	       VBZ	      S-VP	         O	        invites	       S-V	(VP*
+            Mr.	       NNP	      B-NP	     B-PER	              -	      B-A1	(NP*
+       Lovelace	       NNP	      E-NP	     E-PER	              -	      E-A1	*)
+             to	        TO	      S-PP	         O	              -	      B-A2	(PP*
+            Mr.	       NNP	      B-NP	     B-PER	              -	      I-A2	(NP*
+       Lovelace	       NNP	      I-NP	     E-PER	              -	      I-A2	*
+      collation	        NN	      E-NP	         O	              -	      E-A2	*))
+             on	        IN	      S-PP	         O	              -	  B-AM-TMP	(PP*
+         Monday	       NNP	      B-NP	         O	              -	  I-AM-TMP	(NP*
+        evening	        NN	      E-NP	         O	              -	  E-AM-TMP	*)))
+              .	         .	         O	         O	              -	         O	*))
+
+              <	        FW	         O	         O	              -	      B-A0	(S1(S(NP*
+              i	        FW	         O	         O	              -	      I-A0	*
+              >	        FW	         O	         O	              -	      E-A0	*)
+           says	       VBZ	      S-VP	         O	           says	       S-V	(VP*
+             he	       PRP	      S-NP	         O	              -	      B-A1	(NP(NP*)
+              ,	         ,	         O	         O	              -	      I-A1	*
+              <	        FW	         O	         O	              -	      I-A1	(NP*
+             /i	        FW	         O	         O	              -	      I-A1	*
+              >	        FW	         O	         O	              -	      E-A1	*)))))
+
